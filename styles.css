@@ -315,17 +315,64 @@ textarea {
   gap: 10px;
 }
 
-.auth-form input {
+.auth-form input,
+.auth-form select,
+.auth-form textarea {
   padding: 12px 14px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--paper);
   font-size: 15px;
+  width: 100%;
 }
 
-.auth-form input:focus {
+.auth-form textarea {
+  resize: vertical;
+  min-height: 90px;
+}
+
+.auth-form input:focus,
+.auth-form select:focus,
+.auth-form textarea:focus {
   outline: 2px solid var(--purple);
   outline-offset: 1px;
+}
+
+.faq details {
+  border-bottom: 1px solid var(--line);
+  padding: 12px 0;
+}
+
+.faq details:last-child {
+  border-bottom: none;
+}
+
+.faq summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+
+.faq summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq summary::before {
+  content: "+";
+  display: inline-block;
+  width: 18px;
+  color: var(--purple);
+  font-weight: 700;
+}
+
+.faq details[open] summary::before {
+  content: "−";
+}
+
+.faq details p {
+  margin: 10px 0 0 24px;
+  color: var(--muted);
+  line-height: 1.7;
 }
 
 .auth-divider {

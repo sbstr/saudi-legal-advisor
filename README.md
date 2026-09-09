@@ -37,11 +37,43 @@ button is simply hidden. To enable it:
 6. Copy the generated **Client ID** into `GOOGLE_CLIENT_ID` in `.env`.
 7. Restart the server. The Google button should now appear on the login screen.
 
+## Publishing to app stores
+
+The app is now a fully installable **Progressive Web App** (PWA): `manifest.json` +
+`service-worker.js` give it a home-screen icon, offline app shell, and standalone
+(no-browser-chrome) window, which is the actual technical prerequisite for store
+publishing either way. `privacy.html` and `support.html` are also in place — both
+Google Play and Apple's App Store require a working privacy policy URL before they'll
+review a listing.
+
+What's **not** done here, because it needs tools and accounts this environment doesn't
+have:
+
+- **Android (Google Play)**: the realistic path from a PWA is a Trusted Web Activity,
+  generated with [PWABuilder](https://www.pwabuilder.com/) (paste your deployed HTTPS
+  URL in, it packages an `.aab` for you) or Google's own
+  [Bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap) CLI (needs a JDK + Android
+  SDK installed locally). Either way you need a Google Play Console developer account
+  (one-time $25) and a signing key.
+- **iOS (App Store)**: requires wrapping the PWA (e.g. with
+  [Capacitor](https://capacitorio.com/)) and building through Xcode **on a Mac**, plus
+  an Apple Developer Program account ($99/yr). This cannot be built from this Windows
+  machine — PWABuilder can also scaffold the iOS project for you to hand to a Mac/Xcode.
+- The site must be deployed to a real **HTTPS domain** first (service workers and app
+  store review both require it) — set `COOKIE_SECURE=true` once it is.
+- Replace `icons/*.png` — they're programmatically generated placeholders (see
+  `scripts/generate-icons.js`), not a real logo. Store listings also need extra
+  marketing assets (screenshots, feature graphic) that aren't part of the app itself.
+
 ## Structure
 
 - `index.html`, `styles.css`, `app.js`, `auth.js` — static chat UI, login/register forms, and session handling
 - `pricing.html`, `pricing.js` — subscription plans page (`data/plans.json`)
-- `backend/server.js` — zero-dependency Node HTTP server: serves static files, proxies chat requests to the Anthropic API, and exposes the auth/plans API routes
+- `privacy.html` — privacy policy (draft — have it reviewed against Saudi PDPL before relying on it)
+- `support.html`, `support.js` — FAQ + contact form, posts to `/api/support`
+- `manifest.json`, `service-worker.js`, `pwa.js`, `icons/` — PWA installability (home-screen install, offline app shell)
+- `backend/server.js` — zero-dependency Node HTTP server: serves static files, proxies chat requests to the Anthropic API, and exposes the auth/plans/support API routes
 - `backend/auth.js` — session tokens, password hashing, Google ID token verification
 - `backend/users.js` — JSON-file user store, free-trial/plan quota logic (`data/users.json`, gitignored — never commit it, it holds emails and password hashes)
+- `backend/support.js` — JSON-file support ticket store (`data/support-tickets.json`, gitignored)
 - `docs/system-prompt.md` — the system prompt that defines the advisor's persona, legal scope, and methodology

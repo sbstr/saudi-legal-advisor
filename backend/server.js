@@ -5,6 +5,7 @@ const path = require('path');
 const { searchLaws } = require('./laws');
 const auth = require('./auth');
 const users = require('./users');
+const support = require('./support');
 
 const ROOT = path.resolve(__dirname, '..');
 const PORT = Number(process.env.PORT || 4174);
@@ -24,7 +25,11 @@ const MIME_TYPES = {
   '.css': 'text/css; charset=utf-8',
   '.js': 'application/javascript; charset=utf-8',
   '.json': 'application/json; charset=utf-8',
-  '.md': 'text/markdown; charset=utf-8'
+  '.webmanifest': 'application/manifest+json; charset=utf-8',
+  '.md': 'text/markdown; charset=utf-8',
+  '.png': 'image/png',
+  '.svg': 'image/svg+xml',
+  '.ico': 'image/x-icon'
 };
 
 const rateBuckets = new Map();
@@ -257,6 +262,20 @@ function handleConfig(req, res) {
   return sendJson(res, 200, { googleClientId: GOOGLE_CLIENT_ID || null });
 }
 
+async function handleSupport(req, res) {
+  const body = await readBody(req);
+  const name = String(body.name || '').trim().slice(0, 200);
+  const email = String(body.email || '').trim().toLowerCase();
+  const topic = String(body.topic || 'عام').trim().slice(0, 100);
+  const message = String(body.message || '').trim().slice(0, 2000);
+  if (!name) throw httpError(400, 'الرجاء إدخال الاسم.');
+  if (!EMAIL_RE.test(email)) throw httpError(400, 'البريد الإلكتروني غير صحيح.');
+  if (!message) throw httpError(400, 'الرجاء كتابة رسالتك.');
+  const sessionUser = getSessionUser(req);
+  support.createTicket({ name, email, topic, message, userId: sessionUser ? sessionUser.id : null });
+  return sendJson(res, 200, { ok: true });
+}
+
 async function handleChat(req, res) {
   if (!ANTHROPIC_API_KEY) throw httpError(503, 'خدمة المستشار القانوني غير مفعّلة حاليًا.');
   const sessionUser = requireSessionUser(req);
@@ -353,6 +372,9 @@ const server = http.createServer(async (req, res) => {
     }
     if (req.method === 'GET' && url.pathname === '/api/config') {
       return handleConfig(req, res);
+    }
+    if (req.method === 'POST' && url.pathname === '/api/support') {
+      return await handleSupport(req, res);
     }
     return serveStatic(req, res);
   } catch (error) {

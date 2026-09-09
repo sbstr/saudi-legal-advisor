@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="الأسئلة الشائعة والدعم الفني للمستشار القانوني الذكي." />
+    <title>الدعم الفني — المستشار القانوني الذكي</title>
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" type="image/png" href="/icons/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <meta name="theme-color" content="#6d3bf5" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <span class="brand"><span class="brand-mark">⚖</span><span><strong>المستشار القانوني الذكي</strong><small>استشارات أولية في الأنظمة السعودية</small></span></span>
+      <nav class="nav-links">
+        <a href="index.html">المحادثة</a>
+        <a href="pricing.html">الباقات</a>
+        <span id="accountBar" class="account-bar" hidden></span>
+      </nav>
+    </header>
+
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">الدعم الفني</p>
+        <h1>كيف نقدر نساعدك؟</h1>
+        <p>راجع الأسئلة الشائعة أدناه، أو أرسل لنا رسالة وسنعاود التواصل معك في أقرب وقت.</p>
+      </section>
+
+      <section class="card faq">
+        <h2>الأسئلة الشائعة</h2>
+        <details>
+          <summary>هل هذه الاستشارة تُغني عن محامٍ؟</summary>
+          <p>لا. الردود استرشادية أولية فقط، ولا تُعد استشارة قانونية رسمية ولا تُنشئ علاقة وكالة. للحالات الجدّية يُنصح بمراجعة محامٍ مرخّص.</p>
+        </details>
+        <details>
+          <summary>كم عدد الاستشارات المجانية التي أحصل عليها؟</summary>
+          <p>يحصل كل حساب جديد على استشارة مجانية واحدة. بعدها يلزم الاشتراك في إحدى الباقات من صفحة <a href="pricing.html">الباقات</a> للمتابعة.</p>
+        </details>
+        <details>
+          <summary>هل يمكنني تسجيل الدخول بحساب جوجل؟</summary>
+          <p>نعم، إذا كان مفعّلًا لدى مزوّد الخدمة، سيظهر زر "المتابعة عبر جوجل" في شاشة تسجيل الدخول. وإلا يمكنك دائمًا إنشاء حساب بالبريد الإلكتروني وكلمة المرور.</p>
+        </details>
+        <details>
+          <summary>كيف أحذف حسابي وبياناتي؟</summary>
+          <p>أرسل لنا طلبًا عبر النموذج أدناه من نفس البريد الإلكتروني المسجّل، وسنقوم بحذف الحساب والبيانات المرتبطة به خلال مدة معقولة. راجع <a href="privacy.html">سياسة الخصوصية</a> لمزيد من التفاصيل.</p>
+        </details>
+        <details>
+          <summary>هل الدفع الإلكتروني مفعّل حاليًا؟</summary>
+          <p>لا يزال الدفع الإلكتروني قيد التفعيل. عند الاشتراك في إحدى الباقات حاليًا، سنتواصل معك لإتمام عملية الدفع يدويًا لحين تفعيل بوابة الدفع.</p>
+        </details>
+      </section>
+
+      <section class="card">
+        <h2>راسلنا</h2>
+        <form id="supportForm" class="auth-form">
+          <input type="text" id="supportName" placeholder="الاسم" required autocomplete="name" />
+          <input type="email" id="supportEmail" placeholder="البريد الإلكتروني" required autocomplete="email" />
+          <select id="supportTopic">
+            <option value="عام">استفسار عام</option>
+            <option value="فني">مشكلة فنية</option>
+            <option value="اشتراك">استفسار عن الباقات والاشتراك</option>
+            <option value="خصوصية">طلب متعلق بالبيانات الشخصية</option>
+          </select>
+          <textarea id="supportMessage" rows="4" placeholder="اكتب رسالتك هنا…" required maxlength="2000"></textarea>
+          <button type="submit" class="button primary">إرسال</button>
+        </form>
+        <p id="supportStatus" class="chat-status" role="status"></p>
+      </section>
+    </main>
+
+    <footer class="site-footer"><p>المستشار القانوني الذكي — <a href="privacy.html">سياسة الخصوصية</a> · <a href="support.html">الدعم الفني</a></p></footer>
+
+    <script src="pwa.js"></script>
+    <script src="support.js"></script>
+  </body>
+</html>
