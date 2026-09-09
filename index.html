@@ -10,6 +10,10 @@
   <body>
     <header class="site-header">
       <span class="brand"><span class="brand-mark">⚖</span><span><strong>المستشار القانوني الذكي</strong><small>استشارات أولية في الأنظمة السعودية</small></span></span>
+      <nav class="nav-links">
+        <a href="pricing.html">الباقات</a>
+        <span id="accountBar" class="account-bar" hidden></span>
+      </nav>
     </header>
 
     <main class="page">
@@ -19,25 +23,53 @@
         <p>اسأل عن نظام المرافعات، العمل، الشركات، التجارة الإلكترونية، وغيرها من الأنظمة السعودية. الإجابات استرشادية ولا تُغني عن استشارة محامٍ مرخّص.</p>
       </section>
 
-      <section class="chat-shell" aria-live="polite">
-        <div id="chatLog" class="chat-log">
-          <article class="chat-bubble assistant">
-            <p>مرحبًا، أنا المستشار القانوني الذكي. صف لي واقعتك أو استفسارك النظامي بإيجاز، وسأحدد التكييف القانوني والمواد ذات العلاقة والخيارات المتاحة أمامك.</p>
-          </article>
+      <section id="authShell" class="auth-shell" hidden>
+        <div class="auth-tabs">
+          <button type="button" id="tabLogin" class="auth-tab active">تسجيل الدخول</button>
+          <button type="button" id="tabRegister" class="auth-tab">إنشاء حساب</button>
         </div>
 
-        <form id="chatForm" class="chat-form">
-          <textarea
-            id="chatInput"
-            class="chat-input"
-            rows="2"
-            maxlength="4000"
-            placeholder="اكتب استفسارك القانوني هنا…"
-            required
-          ></textarea>
-          <button id="chatSend" class="button primary" type="submit">إرسال</button>
+        <form id="loginForm" class="auth-form">
+          <input type="email" id="loginEmail" placeholder="البريد الإلكتروني" required autocomplete="email" />
+          <input type="password" id="loginPassword" placeholder="كلمة المرور" required autocomplete="current-password" />
+          <button type="submit" class="button primary">دخول</button>
         </form>
-        <p id="chatStatus" class="chat-status" role="status"></p>
+
+        <form id="registerForm" class="auth-form" hidden>
+          <input type="text" id="registerName" placeholder="الاسم" required autocomplete="name" />
+          <input type="email" id="registerEmail" placeholder="البريد الإلكتروني" required autocomplete="email" />
+          <input type="password" id="registerPassword" placeholder="كلمة المرور (8 أحرف على الأقل)" required minlength="8" autocomplete="new-password" />
+          <button type="submit" class="button primary">إنشاء حساب والبدء</button>
+        </form>
+
+        <p id="authStatus" class="auth-status" role="status"></p>
+
+        <div id="googleDivider" class="auth-divider" hidden>أو</div>
+        <div id="googleBtnSlot" class="google-btn-slot"></div>
+      </section>
+
+      <section id="chatSection" hidden>
+        <p id="trialBanner" class="trial-banner" hidden></p>
+        <div class="chat-shell" aria-live="polite">
+          <div id="chatLog" class="chat-log">
+            <article class="chat-bubble assistant">
+              <p>مرحبًا، أنا المستشار القانوني الذكي. صف لي واقعتك أو استفسارك النظامي بإيجاز، وسأحدد التكييف القانوني والمواد ذات العلاقة والخيارات المتاحة أمامك.</p>
+            </article>
+          </div>
+
+          <form id="chatForm" class="chat-form">
+            <textarea
+              id="chatInput"
+              class="chat-input"
+              rows="2"
+              maxlength="4000"
+              placeholder="اكتب استفسارك القانوني هنا…"
+              required
+            ></textarea>
+            <button id="chatSend" class="button primary" type="submit">إرسال</button>
+          </form>
+          <p id="chatStatus" class="chat-status" role="status"></p>
+        </div>
       </section>
 
       <section class="card">
@@ -48,6 +80,8 @@
 
     <footer class="site-footer"><p>المستشار القانوني الذكي</p></footer>
 
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script src="auth.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

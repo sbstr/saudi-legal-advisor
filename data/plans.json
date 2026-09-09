@@ -1,0 +1,38 @@
+[
+  {
+    "id": "basic",
+    "nameAr": "الباقة الأساسية",
+    "priceSar": 49,
+    "billingPeriodAr": "شهريًا",
+    "consultations": 10,
+    "featuresAr": [
+      "10 استشارات قانونية شهريًا",
+      "الرد خلال ثوانٍ",
+      "دعم عبر البريد الإلكتروني"
+    ]
+  },
+  {
+    "id": "pro",
+    "nameAr": "الباقة الاحترافية",
+    "priceSar": 149,
+    "billingPeriodAr": "شهريًا",
+    "consultations": 50,
+    "featuresAr": [
+      "50 استشارة قانونية شهريًا",
+      "أولوية في الردود",
+      "دعم عبر البريد الإلكتروني والواتساب"
+    ]
+  },
+  {
+    "id": "unlimited",
+    "nameAr": "باقة الأعمال",
+    "priceSar": 399,
+    "billingPeriodAr": "شهريًا",
+    "consultations": null,
+    "featuresAr": [
+      "استشارات غير محدودة",
+      "أولوية قصوى في الردود",
+      "مدير حساب مخصص"
+    ]
+  }
+]
