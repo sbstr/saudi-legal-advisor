@@ -2,6 +2,7 @@ const http = require('http');
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
+const { searchLaws } = require('./laws');
 
 const ROOT = path.resolve(__dirname, '..');
 const PORT = Number(process.env.PORT || 4174);
@@ -145,10 +146,19 @@ async function handleChat(req, res) {
     .filter((item) => item.content);
   if (!messages.length) throw httpError(400, 'أرسل استفسارك القانوني أولًا.');
 
+  const lastUserMessage = [...messages].reverse().find((item) => item.role === 'user');
+  const matches = lastUserMessage ? searchLaws(lastUserMessage.content, 5) : [];
+  const lawContext = matches.length
+    ? '\n\nمواد نظامية قد تكون ذات صلة بسؤال المستخدم (استخدمها إن كانت ملائمة مع ذكر رقم المادة والنظام، وتجاهلها إن لم تكن ذات صلة):\n' +
+      matches
+        .map((match) => `- ${match.lawName} - ${match.label}${match.chapter ? ` (${match.chapter})` : ''}:\n${match.text}`)
+        .join('\n\n')
+    : '';
+
   const response = await requestAnthropic({
     model: ANTHROPIC_MODEL,
     max_tokens: 1500,
-    system: SYSTEM_PROMPT,
+    system: SYSTEM_PROMPT + lawContext,
     messages
   });
 
