@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="مستشار قانوني ذكي متخصص في الأنظمة السعودية، يقدّم استشارات أولية استرشادية مع الإشارة إلى المواد النظامية ذات العلاقة." />
+    <title>المستشار القانوني الذكي</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <span class="brand"><span class="brand-mark">⚖</span><span><strong>المستشار القانوني الذكي</strong><small>استشارات أولية في الأنظمة السعودية</small></span></span>
+    </header>
+
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">استشارة أولية استرشادية</p>
+        <h1>اسأل مستشارك القانوني الذكي</h1>
+        <p>اسأل عن نظام المرافعات، العمل، الشركات، التجارة الإلكترونية، وغيرها من الأنظمة السعودية. الإجابات استرشادية ولا تُغني عن استشارة محامٍ مرخّص.</p>
+      </section>
+
+      <section class="chat-shell" aria-live="polite">
+        <div id="chatLog" class="chat-log">
+          <article class="chat-bubble assistant">
+            <p>مرحبًا، أنا المستشار القانوني الذكي. صف لي واقعتك أو استفسارك النظامي بإيجاز، وسأحدد التكييف القانوني والمواد ذات العلاقة والخيارات المتاحة أمامك.</p>
+          </article>
+        </div>
+
+        <form id="chatForm" class="chat-form">
+          <textarea
+            id="chatInput"
+            class="chat-input"
+            rows="2"
+            maxlength="4000"
+            placeholder="اكتب استفسارك القانوني هنا…"
+            required
+          ></textarea>
+          <button id="chatSend" class="button primary" type="submit">إرسال</button>
+        </form>
+        <p id="chatStatus" class="chat-status" role="status"></p>
+      </section>
+
+      <section class="card">
+        <h2>تنبيه مهم</h2>
+        <p>هذه الأداة تقدّم توجيهًا نظاميًا أوليًا لأغراض الاسترشاد فقط، ولا تُعد بديلاً عن استشارة محامٍ أو مستشار قانوني مرخّص، ولا تنشئ أي علاقة وكالة قانونية. تجنّب إدخال بيانات شخصية حساسة.</p>
+      </section>
+    </main>
+
+    <footer class="site-footer"><p>المستشار القانوني الذكي</p></footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
