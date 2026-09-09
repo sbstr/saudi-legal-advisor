@@ -1,0 +1,1463 @@
+{
+  "id": "civil-procedure-law",
+  "nameAr": "نظام المرافعات الشرعية (نظام الإجراءات المدنية)",
+  "language": "en",
+  "governingTextNote": "This is the official Bureau of Experts English translation. Per the source document, the governing (authoritative) text is the Arabic original.",
+  "decree": "Royal Decree No. M/1",
+  "sourceUrl": "https://laws.boe.gov.sa",
+  "ingestedAt": "2026-09-09",
+  "articles": [
+    {
+      "number": 1,
+      "label": "Article 1",
+      "chapter": "Part 1: General Provisions",
+      "text": "Courts shall apply the provisions of Sharia to cases brought before them, as\nderived from the Quran and Sunnah, and State laws not conflicting therewith.\nProceedings before such courts shall comply with the provisions of this Law."
+    },
+    {
+      "number": 2,
+      "label": "Article 2",
+      "chapter": "Part 1: General Provisions",
+      "text": "Any procedure deemed valid under laws in force shall remain valid unless\notherwise provided for in this Law."
+    },
+    {
+      "number": 3,
+      "label": "Article 3",
+      "chapter": "Part 1: General Provisions",
+      "text": "1. No claim or defense shall be accepted unless submitted by a person with a\nlegitimate interest. Potential interest shall be sufficient if the claim is intended\nas a precaution to avoid imminent damage or to establish a right the\nevidence for which may not be available at the time it is contested.\n2. The court shall reject any lawsuit proven to be frivolous or malicious, and it\nmay punish the person filing such lawsuit."
+    },
+    {
+      "number": 4,
+      "label": "Article 4",
+      "chapter": "Part 1: General Provisions",
+      "text": "No public interest lawsuit may be filed except by the public prosecutor upon\napproval by the King. Such lawsuit may not be heard upon the lapse of 60 days\nfrom the date on which the claim arises."
+    },
+    {
+      "number": 5,
+      "label": "Article 5",
+      "chapter": "Part 1: General Provisions",
+      "text": "A proceeding shall be invalid if so declared by the law or if it suffers from a\ndefect causing it to fail its purpose. It shall not be ruled invalid, notwithstanding\na provision stating so, if it is established that the purpose of the proceeding is\nserved."
+    },
+    {
+      "number": 6,
+      "label": "Article 6",
+      "chapter": "Part 1: General Provisions",
+      "text": "A clerk shall attend all hearings and all case proceedings along with the judge,\nand shall keep a record and cosign it with the judge. If the clerk fails to attend,\nthe judge may take charge of the proceeding and draft the record."
+    },
+    {
+      "number": 7,
+      "label": "Article 7",
+      "chapter": "Part 1: General Provisions",
+      "text": "Process servers, clerks, and other judicial clerks may not perform any official\ntask in cases involving them or their spouses, relatives or in-laws up to the\nfourth degree, including declarations involving dispute. Otherwise, such action\nshall be deemed null and void."
+    },
+    {
+      "number": 8,
+      "label": "Article 8",
+      "chapter": "Part 1: General Provisions",
+      "text": "Periods and dates stipulated in this Law shall be calculated according to Umm\nal-Qura calendar, and sunset shall be deemed the end of the day."
+    },
+    {
+      "number": 9,
+      "label": "Article 9",
+      "chapter": "Part 1: General Provisions",
+      "text": "In the application of the provisions of this Law, the term place of residence shall\nmean the place where a person normally resides. For nomads, place of\nresidence shall be deemed the place where a person resides at the time of filing\nthe lawsuit. For detainees and prisoners, place of residence shall be deemed\nthe place where a person is detained or imprisoned.\nA person may designate a place of residence for receiving the notices\naddressed to him, in addition to his permanent place of residence, and shall\nnotify the court of any change in his designated or permanent place of\nresidence."
+    },
+    {
+      "number": 10,
+      "label": "Article 10",
+      "chapter": "Part 1: General Provisions",
+      "text": "A case properly filed with a competent court may not be transferred to another\ncourt or authority nor withdrawn before judgment is rendered. A case shall be\ndeemed filed from the date of its entry into the court registry."
+    },
+    {
+      "number": 11,
+      "label": "Article 11",
+      "chapter": "Part 1: General Provisions",
+      "text": "1. Processes shall be served by process servers at the order of the judge or\nthe request of the litigant or court administration. Litigants or their agents\nshall continue the proceedings and submit papers to process servers for\nservice. Service may be carried out by the plaintiff if he so petitions.\n2. Processes may be served by process servers from the private sector in\naccordance with controls specified in the regulations of this Law. Private\nprocess servers shall be subject to rules and procedures governing process\nservers."
+    },
+    {
+      "number": 12,
+      "label": "Article 12",
+      "chapter": "Part 1: General Provisions",
+      "text": "A process may not be served at a place of residence before sunrise or after\nsunset or during official holidays, except in compelling circumstances and with\nthe written permission of the judge."
+    },
+    {
+      "number": 13,
+      "label": "Article 13",
+      "chapter": "Part 1: General Provisions",
+      "text": "A service of process must be in duplicate, an original and a copy. If several\npersons are served, a copy shall be served to each person.\nThe process shall include the following:\na) Subject of the process, and date of service specifying day, month, year and\ntime.\nb) Full name, identification number, occupation or job, place of residence and\nplace of work of the person requesting the process as well as full name,\nidentification number, occupation or job, place of residence and place of work\nof his representative.\nc) Full name of the defendant and any available information relating to his\noccupation or job, place of residence and place of work. If his place of\nresidence is unknown, the process shall be served at his last known place of\nresidence.\nd) Name of the process server and the court where he works.\ne) Name and capacity of the person receiving the copy of the notification and\nhis signature on the original, or a proof of his refusal and reason therefor.\nf) The server's signature on both the copy and the original.\nIn case of government agencies, the name and location of the agency shall be\ndeemed sufficient for the purposes of paragraphs (b and c) of this Article.\nThe Supreme Judicial Council may, if necessary, add other means and details."
+    },
+    {
+      "number": 14,
+      "label": "Article 14",
+      "chapter": "Part 1: General Provisions",
+      "text": "The server shall deliver a copy of the notification and attachments thereto to\nthe person to be served at his place of residence or work if available; otherwise,\nhe shall deliver the same to whomever he deems to be his agent or a person\nworking for him or to any of his family members, relatives or in-laws residing\nwith him. If none of them are present or if the one present refuses receipt of\nsaid notification or is a minor, the copy and attachments shall be delivered, as\nthe case may be, to the Umdah (chief of the quarter), the police station, the\nadministrator of the township or the chieftain of the tribe within whose\njurisdiction lies the place of residence of the person to be served, in that order,\nand obtain their signature on the original acknowledging receipt.\nThe server shall, within 24 hours of the delivery of a copy to any of the parties\nprovided for in this Article, send a letter – via registered mail – to the person to\nbe served at his place of residence or work notifying him that a copy has been\ndelivered to said party, and shall indicate the same in detail on the original\nnotice. The process shall be deemed effective from the time of delivery of the\ncopy as per the above conditions."
+    },
+    {
+      "number": 15,
+      "label": "Article 15",
+      "chapter": "Part 1: General Provisions",
+      "text": "Administrators of townships, police stations, Umdas and chieftains of tribes\nshall, within their jurisdictions, assist the court process server in performing his\ntask."
+    },
+    {
+      "number": 16,
+      "label": "Article 16",
+      "chapter": "Part 1: General Provisions",
+      "text": "A process shall be valid if served on the person to be served, even if at other\nthan his place of residence or work."
+    },
+    {
+      "number": 17,
+      "label": "Article 17",
+      "chapter": "Part 1: General Provisions",
+      "text": "A copy of the notice shall be delivered as follows:\na) With respect to government agencies: to their heads, or designees.\nb) With respect to public corporate persons: to their managers, or designees.\nc) With respect to companies, associations and private establishments: to their\nmanagers, or designees.\nd) With respect to foreign companies and establishments with branches or\nagents in the Kingdom: to the branch manager, or designee, or to the agent,\nor designee.\ne) With respect to armed forces personnel and those of similar status: to the\nimmediate superior of the person to be served.\nf) With respect to ship crew: to the captain.\ng) With respect to interdicted persons: to their trustees or guardians as the case\nmay be.\nh) With respect to prisoners or detainees: to the warden of the prison or\ndetention center, or designee.\ni) With respect to persons without known or designated place of residence in\nthe Kingdom: to the Ministry of Interior to notify him in an appropriate manner."
+    },
+    {
+      "number": 18,
+      "label": "Article 18",
+      "chapter": "Part 1: General Provisions",
+      "text": "In all the cases set forth in Article 17 of this Law, if the person to be served, or\ndesignee, refuses to receive a copy of the service notice or sign the original\nacknowledging receipt, the server shall so indicate on the original and the copy,\nand deliver the copy to the governorate within whose jurisdiction lies the place\nof residence of the person to be served, or to the entity designated by the\ngovernorate. The process server shall indicate the same in detail on the original\nof the notice and the process shall be deemed valid as of the date of delivery\nof the copy to the relevant recipient."
+    },
+    {
+      "number": 19,
+      "label": "Article 19",
+      "chapter": "Part 1: General Provisions",
+      "text": "If the place of residence of the person to be served is outside the Kingdom, a\ncopy of the notice shall be sent to the Ministry of Foreign Affairs for delivery\nthrough diplomatic channels. A statement indicating that the copy has been\ndelivered to the person to be served shall be deemed sufficient."
+    },
+    {
+      "number": 20,
+      "label": "Article 20",
+      "chapter": "Part 1: General Provisions",
+      "text": "If the place of service in the Kingdom lies outside the court’s jurisdiction, the\npapers to be served shall be sent by such court to the court within whose\njurisdiction the service takes place."
+    },
+    {
+      "number": 21,
+      "label": "Article 21",
+      "chapter": "Part 1: General Provisions",
+      "text": "A period of 60 days shall be added to the statutory time limits for persons\nresiding outside the Kingdom, and the court may, if necessary, extend the same\nfor a similar period."
+    },
+    {
+      "number": 22,
+      "label": "Article 22",
+      "chapter": "Part 1: General Provisions",
+      "text": "If the time limit is set in days, months or years, it shall not include the notice day\nor the day of the event initiating the time limit, as recognized by law. The time\nlimit shall expire at the end of the last day if the proceeding takes place on such\nday. If the time limit must expire prior to the proceeding, the proceeding shall\nnot take place except upon the lapse of the last day of the time limit. If the time\nlimit is set in hours, its starting hour and its hour of expiry shall be calculated as\nabove.\nIf the time limit expires on an official holiday, it shall extend into the first working\nday thereafter."
+    },
+    {
+      "number": 23,
+      "label": "Article 23",
+      "chapter": "Part 1: General Provisions",
+      "text": "Arabic shall be the official language of courts. The court shall hear non-Arabic\nspeaking litigants, witnesses and others through an interpreter. A certified\nArabic translation prepared by a licensed office shall be presented for\ndocuments in a foreign language."
+    },
+    {
+      "number": 24,
+      "label": "Article 24",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction",
+      "text": "The Kingdom’s courts shall have jurisdiction over cases filed against a Saudi\ncitizen even if he has no known general or designated place of residence in the\nKingdom, except for cases in rem involving real property outside the Kingdom."
+    },
+    {
+      "number": 25,
+      "label": "Article 25",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction",
+      "text": "The Kingdom’s courts shall have jurisdiction over cases filed against non-\nSaudis who have a general or a designated place of residence in the Kingdom,\nexcept for cases in rem involving real property outside the Kingdom."
+    },
+    {
+      "number": 26,
+      "label": "Article 26",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction",
+      "text": "The Kingdom’s courts shall have jurisdiction over cases filed against non-\nSaudis who have no general or designated place of residence in the Kingdom\nin the following cases:\na) If the lawsuit involves property located in the Kingdom or obligation\nconsidered to have originated or is enforceable in the Kingdom.\nb) If the lawsuit involves bankruptcy declared in the Kingdom.\nc) If the lawsuit is filed against more than one person and one of them has a\nplace of residence in the Kingdom."
+    },
+    {
+      "number": 27,
+      "label": "Article 27",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction",
+      "text": "The Kingdom’s courts shall have jurisdiction over cases filed against a non-\nSaudi Muslim who has no general or designated place of residence in the\nKingdom in the following cases:\na) If the case is against a marriage contract to be executed in the Kingdom.\nb) If the case is for divorce or annulment of a marriage contract and is filed by\na Saudi wife or a wife who has lost her Saudi citizenship by reason of\nmarriage if either one is residing in the Kingdom, or a non-Saudi wife residing\nin the Kingdom, against her husband who has a place of residence in the\nKingdom if the husband abandoned her and took residence abroad or if he\nwas deported from the Kingdom.\nc) If the lawsuit is for support and the person for whom support is claimed\nresides in the Kingdom.\nd) If the lawsuit involves paternity of a child in the Kingdom or relates to an\nissue of custody over a person or property when the minor or the person to\nbe interdicted has a place of residence in the Kingdom.\ne) If the lawsuit involves some other family matters and the plaintiff is a Saudi\nor a non-Saudi residing in the Kingdom, provided the defendant has no\nknown place of residence abroad."
+    },
+    {
+      "number": 28,
+      "label": "Article 28",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction",
+      "text": "Except for cases in rem involving real estate outside the Kingdom, the\nKingdom’s courts shall have jurisdiction over cases when the litigants accept\nthese courts' jurisdiction, even if the case does not fall within their jurisdiction."
+    },
+    {
+      "number": 29,
+      "label": "Article 29",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction",
+      "text": "The Kingdom’s courts shall have jurisdiction over precautionary and provisional\nmeasures enforced in the Kingdom, even if such courts have no jurisdiction\nover the original case."
+    },
+    {
+      "number": 30,
+      "label": "Article 30",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction",
+      "text": "The jurisdiction of the Kingdom’s courts shall entail having jurisdiction over\npreliminary and incidental petitions relating to the original case as well as\nconsideration of any petition relating to such case if the proper conduct of\njustice requires that they are considered together."
+    },
+    {
+      "number": 31,
+      "label": "Article 31",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction",
+      "text": "General courts shall have jurisdiction to consider all lawsuits, cases,\npresentations and the like, which are beyond the jurisdiction of other courts,\nnotaries public and the Board of Grievances. They may, in particular, consider\nthe following:\na) Lawsuits relating to real property, including disputes over ownership or any\nassociated right; harm inflicted by the real property or users thereof; or\nlawsuits relating to values of utilities, eviction, payment or contribution to rent;\nor lawsuits relating to restraining interference with possession or recovery of\npossession and the like, unless the law provides otherwise.\nb) Issuing title deeds for real property ownership or endowment.\nc) Lawsuits resulting from traffic accidents and offences provided for in the\nTraffic Law and its Implementing Regulations."
+    },
+    {
+      "number": 32,
+      "label": "Article 32",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction",
+      "text": "General courts in a county or township where there is no specialized court shall\nhave jurisdiction over lawsuits, cases, presentations and the like, which fall\nwithin the jurisdiction of such specialized court, unless the Supreme Judicial\nCouncil decides otherwise."
+    },
+    {
+      "number": 33,
+      "label": "Article 33",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction",
+      "text": "Family courts shall have jurisdiction to consider the following:\na) all family matters, including:\n1. recording marriage, divorce, khul’ (divorce at the insistence of the wife),\ndissolution of marriage, revocation of divorce, child custody, alimony and\nvisitation;\n2. registration of endowment, will, paternity, absence, death and\ndetermination of heirs;\n3. inheritance and distribution thereof, including real estate if disputed or it\ninvolves a share of endowment or will, or a minor or an absentee;\n4. recording the designation of trustees, guardians and administrators;\npermitting them to perform actions that require the court’s permission and\ndismissing them if necessary, as well as imposing interdiction against\nspendthrifts or removal thereof, subject to procedures set forth in the\nRegulations of this Law;\n5. recording a power of attorney by illiterate deaf persons; and\n6. marrying off women who have no guardians or are deprived of marriage\nby their guardians.\nb) lawsuits arising from family matters; and\nc) lawsuits filed for imposing penalties provided for in the Law of the General\nCommission for Guardianship over Property of Minors and those of Similar\nStatus."
+    },
+    {
+      "number": 34,
+      "label": "Article 34",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction",
+      "text": "Labor courts shall have jurisdiction to consider the following:\na) Disputes relating to work contracts, wages, rights, work injuries and\ncompensation therefor.\nb) Disputes relating to disciplinary measures imposed on employees by their\nemployers or requesting exemption therefrom.\nc) Lawsuits filed for imposing penalties provided for in the Labor Law.\nd) Disputes arising from termination of employment.\ne) Complaints made by employers and employees whose objections to any\ndecision issued by any competent department of the General Organization\nfor Social Insurance, relating to mandatory registration; contributions or\ncompensation, have been refused.\nf) Disputes relating to employees governed by the provisions of the Labor Law,\nincluding workers employed by the government.\ng) Disputes arising from the application of the Labor Law and Social Insurance\nLaw, without prejudice to the jurisdictions of other courts and the Board of\nGrievances."
+    },
+    {
+      "number": 35,
+      "label": "Article 35",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction",
+      "text": "Commercial courts shall have jurisdiction to consider the following:\na) All original and corollary commercial disputes between merchants.\nb) Lawsuits filed against a merchant due to his original commercial activities or\nan activity related thereto.\nc) Disputes between partners in partnerships.\nd) All lawsuits and violations relating to commercial laws, without prejudice to\nthe jurisdiction of the Board of Grievances.\ne) Lawsuits of bankruptcy and imposition of interdiction on bankrupt persons\nand removal thereof.\nf) Other commercial disputes."
+    },
+    {
+      "number": 36,
+      "label": "Article 36",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction > Chapter 3: Territorial Jurisdiction",
+      "text": "1. Jurisdiction shall belong to the court within whose jurisdiction the defendant’s\nplace of residence falls. If the defendant does not have a place of residence\nin the Kingdom, the jurisdiction shall belong to the court within whose\njurisdiction the plaintiff’s place of residence falls.\n2. If neither the plaintiff nor the defendant has a place of residence in the\nKingdom, the plaintiff may file the case with any court in any city in the\nKingdom.\n3. In case of multiple defendants, jurisdiction shall belong to the court with\njurisdiction over the place of residence of the majority. In case of equal\nnumbers, the plaintiff shall have the right to file the case with any court having\njurisdiction over the place of residence of any of them."
+    },
+    {
+      "number": 37,
+      "label": "Article 37",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction > Chapter 3: Territorial Jurisdiction",
+      "text": "Cases against government agencies shall be filed with the court having\njurisdiction over its head office. A lawsuit may be filed with the court having\njurisdiction over the branch of a government agency in matters relating to that\nbranch."
+    },
+    {
+      "number": 38,
+      "label": "Article 38",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction > Chapter 3: Territorial Jurisdiction",
+      "text": "Lawsuits relating to existing companies and societies or those under liquidation,\nor to private establishments, shall be filed with the court having jurisdiction over\nits head office irrespective of whether the case is filed against the company,\nsociety or establishment, or by the company, society or establishment against\na partner or a member, or by a partner or a member against another partner or\nmember. A lawsuit may be filed with the court having jurisdiction over the\nbranch of a company, society or establishment in matters relating to that\nbranch."
+    },
+    {
+      "number": 39,
+      "label": "Article 39",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction > Chapter 3: Territorial Jurisdiction",
+      "text": "The following shall be excluded from the application of Article 36 of this Law:\n1. A claimant of alimony shall have the right to file a lawsuit with the court having\njurisdiction over the place of residence of either the claimant or defendant.\n2. A woman, in marital matters or matters relating to custody, visitation or\ndeprivation of marriage by a guardian, shall have the right to file the lawsuit\nin either her town or that of the defendant. If the court hears the lawsuit in\nthe plaintiff’s town, it shall succeed the defendant’s town court to consider\nher lawsuit. If the lawsuit is transferred, the defendant shall be summoned to\nappear before the court with which the lawsuit is filed in order to proceed\ntherewith. If the defendant abstains, the lawsuit shall be heard in absentia\nand if the lawsuit is not transferred, the court shall dismiss it without\nsummoning the defendant.\n3. A plaintiff in lawsuits arising from traffic accidents occurring in a town other\nthan that of the defendant shall have the right to file the lawsuit with the court\nwithin whose jurisdiction the place of the accident or defendant’s place of\nresidence falls."
+    },
+    {
+      "number": 40,
+      "label": "Article 40",
+      "chapter": "Part 2: Jurisdiction > Chapter 1: International Jurisdiction > Chapter 2: Subject Matter Jurisdiction > Chapter 3: Territorial Jurisdiction",
+      "text": "A city, county or township shall be considered the territorial jurisdiction of the\ncourt located therein. If there are multiple courts, the Supreme Judicial Council\nshall designate the territorial jurisdiction of each. A township with no court shall\nfall within the jurisdiction of the court of the nearest town within the province,\nunless the Supreme Judicial Council determines that they fall within the\njurisdiction of another court in the same province. In case of conflict of territorial\njurisdiction, the case shall be referred to the Supreme Court to decide thereon."
+    },
+    {
+      "number": 41,
+      "label": "Article 41",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "1. A lawsuit shall be filed with the court by the plaintiff, by means of a statement\nof claim signed by the plaintiff or his representative, in an original and as\nmany copies as there are defendants.\nThe statement of claim must include the following:\na) Plaintiff's full name, identification number, profession or occupation, place\nof residence and place of work, as well as his representative’s full name,\nidentification number, profession or occupation, place of residence and\nplace of work.\nb) Defendant's full name, available information about his profession or\noccupation, place of residence and place of work, or his last place of\nresidence if he has no known place of residence.\nc) Date of submission of the statement of claim.\nd) The court before which the lawsuit is filed.\ne) Plaintiff’s designated place of residence in the town where the court is\nlocated if he has no place of residence therein.\nf) Subject matter of the suit and plaintiff’s claim and evidence.\nAs to government agencies referred to in paragraphs (a, b and e) of this Article,\nthe name and location of said government agencies shall be deemed sufficient.\nThe Supreme Judicial Council may, if necessary, add other means and details.\n2. A single statement of claim may not combine several unrelated claims.\n3.\na) Rules and procedures relating to labor disputes shall apply to labor class\naction lawsuits, unless the Supreme Judicial Council determines\notherwise.\nb) A labor class action lawsuit shall mean any dispute arising between one\nemployer (or more) and his employees, or a group of them, for reasons\nrelating to work or terms thereof."
+    },
+    {
+      "number": 42,
+      "label": "Article 42",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "The clerk shall enter the case in the court docket on the day the statement of\nclaim is filed, upon recording the date of the hearing on the original and copies\nthereof in the presence of the plaintiff or his representative. The clerk shall, not\nlater than the following day, deliver the original statement of claim and copies\nthereof to the process server or plaintiff, as the case may be, for serving and\nreturning the original to the court administration."
+    },
+    {
+      "number": 43,
+      "label": "Article 43",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "Taking into consideration the date set for appearance, the process server or\nplaintiff, as the case may be, shall serve a copy of the statement of claim to the\ndefendant not later than 15 days from the date of receipt, unless a hearing is\nset within such period. In such case, the statement of claim shall be served\nprior to the hearing."
+    },
+    {
+      "number": 44,
+      "label": "Article 44",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "The date of appearance before a general court shall not be less than eight days\nfrom the date of service of the statement of claim. The date of appearance\nbefore labor, commercial and family courts shall not be less than four days from\nthe date of service of the statement of claim. The four-day period shall apply to\nlabor, commercial and family cases brought before the general court in a county\nor township. Such period may be reduced to 24 hours in lawsuits arising from\ntraffic accidents, or when necessary, provided that the litigant is served in\nperson and is able to reach the court in time. Reduction of such period shall be\nwith the permission of the court before which the lawsuit is filed."
+    },
+    {
+      "number": 45,
+      "label": "Article 45",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "With the exception of summary cases and cases where the period of court date\nis shortened, the defendant shall deposit with the court his statement of defense\nat least three days prior to the hearing set for consideration of the case before\nthe general court and at least one day prior to the hearing before other courts\nand before labor, commercial and family circuits, if the case is considered by\nthe general court in a county or township."
+    },
+    {
+      "number": 46,
+      "label": "Article 46",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "Failure to observe the period set forth in Article 43 of this Law or the court date\nshall not invalidate the statement of claim, without prejudice to the right of the\nperson served to postponement for completion of the period."
+    },
+    {
+      "number": 47,
+      "label": "Article 47",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "If the plaintiff and defendant voluntarily appear before a court and request a\nhearing of their dispute, the court shall promptly hear the case, if possible, or\nset another hearing, even if the case is beyond its territorial jurisdiction."
+    },
+    {
+      "number": 48,
+      "label": "Article 48",
+      "chapter": "Part 3: Filing and Recording Lawsuits",
+      "text": "If a court sets a hearing for two litigants but they appear at other than the set\ndate and they petition the court to consider their dispute, the court shall, if\npossible, grant such petition.\nLitigation"
+    },
+    {
+      "number": 49,
+      "label": "Article 49",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation",
+      "text": "On the day set for consideration of the case, the litigants shall appear in person\nor through representation. If the representative is an agent, he shall be eligible\nto act as a legal representative according to the law."
+    },
+    {
+      "number": 50,
+      "label": "Article 50",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation",
+      "text": "An agent shall declare his appearance on behalf of his client and shall deposit\na certified copy of the document of his power of attorney with the competent\nclerk. The court may, at its discretion, allow the deposit of the copy of the\ndocument by the agent within a period prescribed by the court, provided that it\nis not later than the first hearing. The power of attorney may be established by\na declaration to be entered in the hearing record and signed or thumb-printed\nby the principal.\nThe aforementioned mandatory deposit shall also apply to trustees, guardians\nand administrators."
+    },
+    {
+      "number": 51,
+      "label": "Article 51",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation",
+      "text": "Whatever the agent declares in the presence of the principal shall in effect be\nconsidered a declaration by the principal himself unless the principal denies it\nin the same hearing. If the principal fails to appear, the agent may not concede\nthe right claimed; make a waiver or accept a settlement; accept, direct, or reject\nan oath; drop the litigation; waive judgment in whole or in part or through any\nmethod of appeal; lift an interdiction; release a mortgage while leaving the debt\nunpaid; claim forgery; request dismissal of the judge; or select or reject an\nexpert, unless he is specifically authorized to do so in the power of attorney."
+    },
+    {
+      "number": 52,
+      "label": "Article 52",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation",
+      "text": "Resignation or dismissal of an agent without the court’s approval shall not\npreclude continuation of the proceedings unless the principal notifies his\nadversary of the appointment of another agent, or of his intention to pursue the\ncase pro se."
+    },
+    {
+      "number": 53,
+      "label": "Article 53",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation",
+      "text": "If the court establishes that an agent has been dilatory under the pretext of the\nneed to consult his client with the intent to procrastinate, the court may instruct\nthe principal himself to complete the proceeding or assign another agent."
+    },
+    {
+      "number": 54,
+      "label": "Article 54",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation",
+      "text": "A judge, a member of the Bureau of Investigation and Public Prosecution, or a\ncourt employee may not serve as an agent for a litigant in a case, even if filed\nbefore a different court. They are, however, permitted to represent their\nspouses, ascendants and descendants as well as persons legally under their\nguardianship."
+    },
+    {
+      "number": 55,
+      "label": "Article 55",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation > Chapter 2: Absence of Litigants",
+      "text": "If the plaintiff is absent from a hearing without an excuse acceptable to the\ncourt, the case shall be dismissed. The plaintiff may, however, petition\ncontinuation of the case. In such case, the court shall schedule a hearing for\nconsideration and shall notify the defendant. If the plaintiff is absent again\nwithout an excuse acceptable to the court, the case shall be dismissed and may\nonly be heard pursuant to a decision by the Supreme Court."
+    },
+    {
+      "number": 56,
+      "label": "Article 56",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation > Chapter 2: Absence of Litigants",
+      "text": "In the cases provided for in Article 55 of this Law, if the defendant attends the\nhearing from which the plaintiff is absent, he may petition the court not to\ndismiss the case and to render a decision on its merits; in which case, the court\nshall rule on such case and the judgment shall be considered in absentia with\nrespect to the plaintiff."
+    },
+    {
+      "number": 57,
+      "label": "Article 57",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation > Chapter 2: Absence of Litigants",
+      "text": "1. If the defendant is absent from the first hearing without being notified in\nperson or through his agent, consideration of the case shall be postponed to\na subsequent hearing of which the defendant shall be notified. If he is absent\nfrom said hearing without an excuse acceptable to the court and without\nbeing notified in person or through his agent, the court shall rule on the case\nand its judgment shall be considered in absentia with respect to the\ndefendant.\n2. If the defendant or his agent in the same case is notified of the date of hearing\nin person, or a memorandum of defense is deposited with the court by the\ndefendant or his agent prior to the scheduled hearing of the case, or if the\ndefendant appears at any of the hearings then fails to appear again, the court\nshall rule on the case and the judgment shall not be deemed in absentia with\nrespect to the defendant.\n3. If the defendant, who has no known or designated place of residence in the\nKingdom, fails to appear after being served pursuant to Article 17(i) of this\nLaw, the court shall rule on the case and the judgment shall be deemed in\nabsentia with respect to the defendant.\n4. If the defendant is absent in cases relating to marital matters or matters of\ncustody, alimony, visitation or prevention of a woman from marriage by her\nguardian, the court may order the defendant to be brought by force in\naccordance with controls stipulated in the regulations of this Law."
+    },
+    {
+      "number": 58,
+      "label": "Article 58",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation > Chapter 2: Absence of Litigants",
+      "text": "In case of multiple defendants, where some are served in person while the\nothers are not, and all of them or only those not served in person are absent,\nthe court shall, in other than summary cases, postpone consideration of the\ncase to a subsequent hearing and the plaintiff shall serve notice of that hearing\nto those absent who are not served in person. The decision in the case shall\nnot be deemed in absentia with respect to served defendants."
+    },
+    {
+      "number": 59,
+      "label": "Article 59",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation > Chapter 2: Absence of Litigants",
+      "text": "In application of the preceding provisions, a person shall not be considered\nabsent if he arrives 30 minutes prior to the end of a hearing’s scheduled time if\nsuch hearing has not started. If he arrives while the hearing is in progress, he\nshall be considered present."
+    },
+    {
+      "number": 60,
+      "label": "Article 60",
+      "chapter": "Part 4: Appearance and Absence of Litigants and Representation in > Chapter 1: Appearance and Representation in Litigation > Chapter 2: Absence of Litigants",
+      "text": "1. A person against whom a judgment in absentia has been rendered may,\nwithin the appeal period specified in this Law, challenge the judgment before\nthe court which rendered it, as of the date of notifying him or his agent of the\njudgment.\n2. The appeal shall be filed by a memorandum pursuant to established\nprocedures for filing cases. Said memorandum shall state the number and\ndate of appealed judgment and grounds for such appeal.\n3. If the appellant or his agent fails to attend the first hearing of the appeal, the\ncourt shall, upon its own motion, rule that the right to appeal is deemed\nforfeited and such judgment shall be deemed final.\n4. The court may order provisional stay of execution of an appealed judgment\nif it is petitioned to do so in the memorandum of appeal and the execution of\nsaid judgment would result in a grave and irreparable harm.\n5. Execution of a judgment in absentia shall be stayed if reversed by a\njudgment."
+    },
+    {
+      "number": 61,
+      "label": "Article 61",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "Hearings shall be attended by the legally required number of judges. If the\nrequired number is not satisfied, the chief judge shall assign a judge to\ncomplete the quorum. If this is unattainable, the Chairman of the Supreme\nJudicial Council shall assign a judge to complete the quorum."
+    },
+    {
+      "number": 62,
+      "label": "Article 62",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "The clerk shall each day draft a list of cases arranged according to time\nscheduled for their consideration. Upon presentation to the judge, the list shall\nbe posted on the docket prior to the hearing date."
+    },
+    {
+      "number": 63,
+      "label": "Article 63",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "Litigants shall be called at the time scheduled for considering their case."
+    },
+    {
+      "number": 64,
+      "label": "Article 64",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "Hearings shall be held in open court unless the judge, upon his own motion or\nthe motion of one of the parties, holds the hearing in a closed session in order\nto maintain order, observe public morality or protect the privacy of the family."
+    },
+    {
+      "number": 65,
+      "label": "Article 65",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "Arguments shall be oral. This, however, shall not preclude the presentation of\nstatements or defenses in written memoranda, copies of which may be\nexchanged between litigants. The original shall be kept in the case file and\nreferenced in the record. The court shall grant litigants sufficient time to review\nand respond to the documents when necessary."
+    },
+    {
+      "number": 66,
+      "label": "Article 66",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "The judge shall ask the plaintiff with regard to necessary aspects of his claim\nprior to questioning the defendant and may not otherwise proceed with the\ncase. If the plaintiff is unable or unwilling to do so, the judge shall dismiss the\ncase."
+    },
+    {
+      "number": 67,
+      "label": "Article 67",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "If the defendant categorically refuses to answer or gives answers not relevant\nto the case, the judge shall repeat the request for a correct answer three times\nin the same hearing. If the defendant persists, the judge shall caution him and\nthen consider him to have declined, and shall proceed with the case in\naccordance with Sharia."
+    },
+    {
+      "number": 68,
+      "label": "Article 68",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "If either party presents a valid defense and requests a response from the other\nparty who asks for postponement, the judge may postpone the case if he deems\nit necessary, but postponement may not be granted again for responding to the\nsame request except for a reason acceptable to the judge."
+    },
+    {
+      "number": 69,
+      "label": "Article 69",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "Arguments shall close once litigants conclude their arguments. The court may,\nprior to pronouncement of judgment, and for justifiable reasons, reopen\narguments on its own motion or the motion of one of the litigants and re-enter\nthe case in the docket."
+    },
+    {
+      "number": 70,
+      "label": "Article 70",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "Litigants may, at any stage of the case, ask the court to enter agreed-upon\nacknowledgement, settlement, or the like in the case record, and the court shall\nissue a deed to that effect."
+    },
+    {
+      "number": 71,
+      "label": "Article 71",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "The clerk shall, under the supervision of the judge, enter the minutes of the\narguments in the record, stating the date and time of the beginning and end of\neach argument, grounds for reviewing the case, name of the judge and names\nof litigants and agents. The judge, clerk and persons whose names are\nmentioned therein shall sign the record. If any declines to sign, the judge shall\nindicate the same in the record of the hearing."
+    },
+    {
+      "number": 72,
+      "label": "Article 72",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures",
+      "text": "Particulars provided in statements of claim, processes, case records,\nrepresentations and the like, may be entered electronically and shall have the\nsame legal effect as written documents in accordance with the Electronic\nTransactions Law."
+    },
+    {
+      "number": 73,
+      "label": "Article 73",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures > Chapter 2: Hearing Order",
+      "text": "1. The presiding judge shall be in charge of order and management of the\nhearing and may, for this purpose, remove from the courtroom any person\nwho disturbs order. If such person does not comply, the court may\nimmediately imprison him for a period not exceeding 24 hours. Its decision\nshall be final. The court may reverse such decision.\n2. In the event of a crime committed while the court is in session, the presiding\njudge shall order the recording of the crime and refer the same to the Bureau\nof Investigation and Public Prosecution for necessary legal action. He may\nalso order the arrest of the offender.\n3. The court rendering the judgment shall review claims for damages resulting\nfrom repeated default in fulfillment of liabilities subject of the case."
+    },
+    {
+      "number": 74,
+      "label": "Article 74",
+      "chapter": "Part 5: Hearing Procedures and Order > Chapter 1: Hearing Procedures > Chapter 2: Hearing Order",
+      "text": "The presiding judge shall be in charge of directing questions to litigants,\nwitnesses and other persons related to the suit. Other circuit judges\nparticipating in the hearing as well as litigants may petition him to direct\nquestions relating to the suit. The presiding judge may delegate the questioning\nof litigants, witnesses and others to any member of the panel."
+    },
+    {
+      "number": 75,
+      "label": "Article 75",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions",
+      "text": "Motions for the invalidity of the statement of claim, improper venue, or for\ntransferring the case to another court because the same dispute or another\nrelated case is filed with said court, shall be presented before any request or\ndefense is made in the case; otherwise, any right not so presented shall be\nforfeited."
+    },
+    {
+      "number": 76,
+      "label": "Article 76",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions",
+      "text": "1. A motion for lack of jurisdiction; type or value of the suit; dismissal of the suit\nfor lack of capacity, interest or any other ground; or if the suit has been\npreviously decided, shall be admissible at any stage of the hearing and shall\nbe decided by the court on its own motion.\n2. If the court determines that a motion for dismissal of the case for lack of\ndefendant's capacity is justifiable, it shall postpone the case in order to notify\nthe person with proper capacity."
+    },
+    {
+      "number": 77,
+      "label": "Article 77",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions",
+      "text": "The court shall rule independently on motions provided for in Articles 75 and 76\nof this Law unless it decides to include them with the subject matter of the suit;\nin which case, it shall indicate its ruling on both the motions and subject matter."
+    },
+    {
+      "number": 78,
+      "label": "Article 78",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions",
+      "text": "Subject to Article 178 of this Law, if a court rules that it lacks jurisdiction and\nsaid ruling becomes final, it shall refer the suit to the competent court and notify\nthe litigants accordingly."
+    },
+    {
+      "number": 79,
+      "label": "Article 79",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions > Chapter 2: Joinder and Intervention",
+      "text": "A litigant may petition the court to join in the suit whoever would validly have\nbeen a litigant when the case was filed, following normal summons procedures.\nThe court shall, if possible, rule on the petition for joinder and on the original\nsuit in the same judgment; otherwise, it shall rule on the petition for joinder after\nruling on the original suit."
+    },
+    {
+      "number": 80,
+      "label": "Article 80",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions > Chapter 2: Joinder and Intervention",
+      "text": "The court may, on its own motion or the motion of a litigant, order the joinder of\na person if it would serve the interest of justice.\nThe court shall set a date within a period not exceeding 15 days for the\nappearance of the person ordered to be joined by the court or at the petition of\nlitigants, in accordance with applicable case-filing procedures."
+    },
+    {
+      "number": 81,
+      "label": "Article 81",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions > Chapter 2: Joinder and Intervention",
+      "text": "Any person with interest may intervene in the case by joining one of the litigants\nor by petitioning a judgment for himself on a matter related to the case.\nIntervention shall be pursuant to a memorandum served to the litigants before\nthe day of the hearing in accordance with applicable case-filing procedures, or\npursuant to an oral petition made during the hearing in the presence of the\nlitigants. Said petition shall be recorded in the hearing transcript. No\nintervention may be permitted after the closing of proceedings."
+    },
+    {
+      "number": 82,
+      "label": "Article 82",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions > Chapter 2: Joinder and Intervention > Chapter 3: Incidental Petitions",
+      "text": "Incidental petitions shall be filed by the plaintiff or defendant by means of a\nmemorandum served to the litigants before the day of the hearing in\naccordance with applicable case-filing procedures, or pursuant to an oral\npetition made during the hearing in the presence of the litigant. Said petition\nshall be recorded in the hearing transcript. No incidental petitions may be\npermitted after the closing of proceedings."
+    },
+    {
+      "number": 83,
+      "label": "Article 83",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions > Chapter 2: Joinder and Intervention > Chapter 3: Incidental Petitions",
+      "text": "The plaintiff may make the following incidental petitions:\na) Matters that involve correcting the original petition or amending its subject\nmatter to meet exigencies that arose or became known after the lawsuit was\nfiled.\nb) Matters complementing, arising from, or indivisibly linked to the original\npetition.\nc) Matters involving an addition or a change to the grounds of the case, leaving\nthe original subject matter of the case unchanged.\nd) Petitioning an order for preventive or temporary action.\ne) Whatever the court permits in connection with the original petition."
+    },
+    {
+      "number": 84,
+      "label": "Article 84",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions > Chapter 2: Joinder and Intervention > Chapter 3: Incidental Petitions",
+      "text": "The defendant may make the following incidental petitions:\na) Petition for judicial offset.\nb) Petition for a judgment for compensation for damages sustained as a result\nof the original case or a proceeding therein.\nc) Any petition which, if granted, results in not rendering judgment on all or\nsome of the petitions of the plaintiff, or rendering a judgment with limitations\nfor the benefit of the defendant.\nd) Any petition indivisibly linked to the original case.\ne) Whatever the court permits in connection with the original case."
+    },
+    {
+      "number": 85,
+      "label": "Article 85",
+      "chapter": "Part 6: Motions, Joinder, Intervention and Incidental Petitions > Chapter 1: Motions > Chapter 2: Joinder and Intervention > Chapter 3: Incidental Petitions",
+      "text": "The court shall, if possible, rule on an incidental petition along with the original\ncase; otherwise, it shall retain the incidental petition for ruling upon ascertaining\nits validity."
+    },
+    {
+      "number": 86,
+      "label": "Article 86",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation",
+      "text": "Court proceedings may be suspended by agreement of the litigants for a period\nnot exceeding six months following approval of such agreement by the court.\nSaid suspension shall have no effect on any time limitation set by the law for a\nparticular proceeding.\nA litigant may, subject to the approval of the adverse party, petition proceeding\nwith the case prior to expiration of the agreed-upon period.\nIf the litigants do not resume the case proceedings within the 10 days following\nthe end of the specified period, the plaintiff shall be deemed to have abandoned\nhis case."
+    },
+    {
+      "number": 87,
+      "label": "Article 87",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation",
+      "text": "If a court determines that its judgment on the merit of a case should be\ncontingent on deciding another matter on which the judgment depends, it shall\norder suspension of the case. Once the ground for such suspension no longer\nexists, the litigants may petition resumption of the case."
+    },
+    {
+      "number": 88,
+      "label": "Article 88",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation > Chapter 2: Discontinuance of Litigation",
+      "text": "1. Unless the case is ripe for judgment on its merits, litigation shall discontinue\nupon the death of a litigant, loss of capacity to litigate, or loss of capacity to\nrepresent any of the litigants. Litigation, however, shall not discontinue upon\nthe expiry of a power of attorney. The court may grant ample time to the\nprincipal if he appoints a new agent within 15 days of the expiry of the first\npower of attorney. If, however, the case is ripe for judgment, the litigation\nshall not be discontinued and the court shall render a judgment thereon.\n2. In case of multiple litigants and ground for discontinuance applies against\none of them, the case shall proceed with respect to the remaining litigants,\nunless the subject matter of the case is indivisible; in which case, litigation\nwith respect to all litigants shall discontinue."
+    },
+    {
+      "number": 89,
+      "label": "Article 89",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation > Chapter 2: Discontinuance of Litigation",
+      "text": "A case shall be considered ripe for judgment on its merits if the litigants make\ntheir statements and closing arguments during the litigation hearing before the\nexistence of a ground for discontinuance."
+    },
+    {
+      "number": 90,
+      "label": "Article 90",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation > Chapter 2: Discontinuance of Litigation",
+      "text": "Discontinuance of litigation shall entail the suspension of all procedural dates\neffective against litigants and invalidation of all proceedings occurring during\nthe discontinuance."
+    },
+    {
+      "number": 91,
+      "label": "Article 91",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation > Chapter 2: Discontinuance of Litigation",
+      "text": "Proceedings of the case shall resume at the request of a litigant by summons\nduly served to the successor of the person against whom ground for\ndiscontinuance applies or to the other litigant. Proceeding with the case shall\nalso resume if the hearing scheduled for consideration of the case is attended\nby the successor or the person against whom ground for discontinuance\napplies."
+    },
+    {
+      "number": 92,
+      "label": "Article 92",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation > Chapter 2: Discontinuance of Litigation > Chapter 3: Abandonment of Litigation",
+      "text": "The plaintiff may abandon litigation by notifying his adversary by a statement\nmade before the competent court clerk; an explicit statement in a memorandum\nsigned by him or his agent and made available to the adverse party; or an oral\npetition during a hearing and its entry into the record. After the defendant\nsubmits his defense, abandonment is permitted only with the defendant’s\napproval."
+    },
+    {
+      "number": 93,
+      "label": "Article 93",
+      "chapter": "Part 7: Suspension, Discontinuance and Abandonment of Litigation > Chapter 1: Suspension of Litigation > Chapter 2: Discontinuance of Litigation > Chapter 3: Abandonment of Litigation",
+      "text": "Abandonment shall entail nullification of all litigation proceedings, including the\nstatement of claim. Such abandonment, however, shall not affect the right\nclaimed."
+    },
+    {
+      "number": 94,
+      "label": "Article 94",
+      "chapter": "Part 8: Recusal and Disqualification of Judges",
+      "text": "A judge shall be barred from considering and hearing a case in the following\ncases, even without a petition by any of the litigants:\na) If he is the husband, relative or in-law up to the fourth degree of a litigant.\nb) If he or his wife has an existing dispute with a litigant in the case or with the\nwife of a litigant.\nc) If he is an agent, guardian, trustee, or a potential heir of a litigant or if he is\nthe husband of the guardian or trustee of a litigant or if he is a relative or an\nin-law up to the fourth degree of such guardian or trustee.\nd) If he, his wife, a relative thereof, an in-law in the ancestral line or a person\nfor whom he is an agent or guardian, has an interest in the case.\ne) If he had provided a fatwa (religious legal opinion) or published his opinion\non the subject of the case, or litigated on behalf of one of the litigants in the\ncase, even if it were before he joined the judiciary, or if he had earlier\nconsidered the case as a judge, expert or arbitrator or had been a witness in\nthe case or had engaged in any investigative action therein."
+    },
+    {
+      "number": 95,
+      "label": "Article 95",
+      "chapter": "Part 8: Recusal and Disqualification of Judges",
+      "text": "An action or decision by a judge in any of the cases set forth in Article 94 of this\nLaw shall be null and void even with the agreement of the litigants. If such\nnullification occurs with respect to an affirmed judgment, a litigant may petition\nthe Supreme Court to nullify the judgment and assign another court to\nreconsider the case."
+    },
+    {
+      "number": 96,
+      "label": "Article 96",
+      "chapter": "Part 8: Recusal and Disqualification of Judges",
+      "text": "1. A judge may be disqualified for any of the following reasons:\na) If he, or his wife, has a case similar to the case before him.\nb) If he, or his wife, has a dispute with a litigant or the wife of the litigant after\nthe case under consideration was filed before the judge, unless such case\nwas filed with the intention of disqualifying the judge from considering the\ncase pending before him.\nc) If his divorcee with whom he has a child or one of his relatives or in-laws\nup to the fourth degree has a dispute before the court with a litigant in the\ncase or with the wife of the litigant, unless the case was brought with the\nintention of disqualifying him.\nd) If a litigant is his servant or the judge had regularly dined or resided with\nhim, or if he had received a gift from him shortly before the lawsuit was\nfiled or thereafter.\ne) If enmity or friendship exists between him and a litigant which would likely\ncompromise his ability to judge impartially.\n2. A petition for disqualification shall result in a stay of the case until said\npetition is decided on."
+    },
+    {
+      "number": 97,
+      "label": "Article 97",
+      "chapter": "Part 8: Recusal and Disqualification of Judges",
+      "text": "A judge may not refrain from considering a case before him unless he is barred\nfrom considering such case or if ground for disqualification exists. He shall\ncontact his immediate superior for permission to recuse himself. The same shall\nbe entered into a special record kept at the court."
+    },
+    {
+      "number": 98,
+      "label": "Article 98",
+      "chapter": "Part 8: Recusal and Disqualification of Judges",
+      "text": "If there is ground for the judge to be disqualified and he fails to recuse himself,\na litigant may request his disqualification. If the ground for disqualification is not\nstated in Article 96 of this Law, a motion for disqualification shall be filed before\nany defense or plea is presented in the case; otherwise such right is forfeited.\nNevertheless, such motion may be filed if the grounds therefor occurred\nafterwards or if the petitioner proves that he had no knowledge thereof. In any\ncase, no motion for disqualification may be granted after closing of arguments."
+    },
+    {
+      "number": 99,
+      "label": "Article 99",
+      "chapter": "Part 8: Recusal and Disqualification of Judges",
+      "text": "A motion for disqualification shall be filed with the court administration. It shall\nbe signed by the petitioner, include grounds for disqualification and be\naccompanied with any supporting documents."
+    },
+    {
+      "number": 100,
+      "label": "Article 100",
+      "chapter": "Part 8: Recusal and Disqualification of Judges",
+      "text": "1. The court administration shall immediately notify the judge of the motion for\ndisqualification, and the judge shall within four days following the notification\nrespond to the chief judge of the court in writing regarding disqualification\nand grounds thereof. If he fails to respond within the prescribed period, or if\nhe responds in support of the grounds for disqualification and such grounds\nare valid, or if he refutes such grounds but are proven against him, the chief\njudge of the court shall declare him disqualified from considering the case.\n2. If the judge sought to be disqualified is a chief judge of a court of first\ninstance, the motion for disqualification shall be decided by the chief judge\nof the competent court of appeals. If the judge to be disqualified is a chief\njudge of a court of appeals or a judge of the Supreme Court, the motion for\ndisqualification shall be decided by the Chief Judge of the Supreme Court.\n3. If the chief judge – as the case may be – denies the motion for\ndisqualification, he shall issue an order to this effect and such order shall be\nfinal."
+    },
+    {
+      "number": 101,
+      "label": "Article 101",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions",
+      "text": "Facts intended to be proven during arguments must be relevant, material to the\ncase and admissible."
+    },
+    {
+      "number": 102,
+      "label": "Article 102",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions",
+      "text": "If the evidence of a litigant is in a place beyond the court’s jurisdiction, said\ncourt shall deputize the judge with jurisdiction over that place to hear and verify\nsuch evidence."
+    },
+    {
+      "number": 103,
+      "label": "Article 103",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions",
+      "text": "A court may abandon the evidentiary procedures it ordered provided that it\nincludes grounds therefor in the record. It may also disregard the result of the\nprocedure provided that it explains the grounds therefor in its judgment."
+    },
+    {
+      "number": 104,
+      "label": "Article 104",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions",
+      "text": "A court may question a litigant who is present, and each litigant may request\nthe questioning of his adverse party who is present. Responses shall be given\nduring the same hearing, unless the court decides to grant time for a response.\nThe response shall be in the presence of the person requesting the questioning."
+    },
+    {
+      "number": 105,
+      "label": "Article 105",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions",
+      "text": "A court may, upon its own motion or the motion of a litigant, summon the\nadverse party for questioning if deemed necessary. A person whom the court\ndecides to question shall attend the hearing specified in the court order."
+    },
+    {
+      "number": 106,
+      "label": "Article 106",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions",
+      "text": "If a litigant has an acceptable excuse for not appearing in person for\nquestioning, the judge shall move to his place of residence or delegate a trusted\nperson to question him. If the person sought for questioning resides outside the\narea of the court’s jurisdiction, the judge shall delegate the court of said place\nof residence to question him."
+    },
+    {
+      "number": 107,
+      "label": "Article 107",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions",
+      "text": "If a litigant fails to appear for questioning without an acceptable excuse, or\nrefuses to answer for no reason, the court may hear the evidence and draw\nwhatever conclusion it deems proper from such failure to appear or refusal to\nanswer. If the litigant who fails to appear or refuses to answer without\njustification has no evidence, he shall be deemed to have declined and the court\nshall take any necessary action in accordance with Sharia."
+    },
+    {
+      "number": 108,
+      "label": "Article 108",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions",
+      "text": "The effect of a litigant's admission, during questioning or without questioning,\nshall be limited to him. The admission shall be made before the court during\nconsideration of the case relating to the admission."
+    },
+    {
+      "number": 109,
+      "label": "Article 109",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions",
+      "text": "A litigant's admission shall be valid if the litigant is legally competent and acts\non his own volition. The admission of a person interdicted for imprudence shall\nbe deemed valid in all matters not subject of interdiction according to Sharia."
+    },
+    {
+      "number": 110,
+      "label": "Article 110",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions",
+      "text": "A litigant's admission shall not be divisible, whereby parts against him are\nadmitted and parts in his favor are disregarded. Admission shall be taken as a\nwhole except if it pertains to multiple facts the existence of one of which does\nnot entail the existence of others."
+    },
+    {
+      "number": 111,
+      "label": "Article 111",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath",
+      "text": "A person requesting the adverse party to take an oath shall specify the facts\nregarding which the oath is to be taken. The court shall prepare the wording of\nthe oath as prescribed by Sharia. An illiterate deaf person shall take oath by\nmeans of an understandable sign."
+    },
+    {
+      "number": 112,
+      "label": "Article 112",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath",
+      "text": "Taking or refusing to take oath shall be made only before the presiding judge\nduring the hearing and shall have no effect outside such hearing unless there\nis a provision to the contrary."
+    },
+    {
+      "number": 113,
+      "label": "Article 113",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath",
+      "text": "1. A person summoned to court to take oath must appear.\n2. If the person requested to take oath appears and declines without contesting\nthe admissibility or relevance of the oath to the case, he must take the oath\nimmediately or require that the adverse party take the oath. If he refuses\nwithout contesting or fails to appear without excuse, he shall be deemed to\nhave declined.\n3. If the person requested to take oath appears but contests the admissibility\nor relevance of the oath to the case, he shall provide reasons therefor. If the\ncourt is not satisfied, he shall take oath; otherwise he shall be deemed to\nhave declined."
+    },
+    {
+      "number": 114,
+      "label": "Article 114",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath",
+      "text": "If the person requested to take oath has a reason that prevents him from\nappearing, the court shall administer the oath at his place or assign one of its\njudges for such purpose. If he resides beyond the jurisdiction of the court, the\ncourt may delegate the court at his place of residence to administer the oath.\nIn either case, a transcript of the oath shall be drafted and signed by the oath\ntaker, the delegated or assigned judge, the clerk and the litigants present."
+    },
+    {
+      "number": 115,
+      "label": "Article 115",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath",
+      "text": "An oath shall be taken in the presence of the person requesting it, unless he\nwaives his right to appear or fails to appear without an acceptable excuse\ndespite his knowledge of the hearing."
+    },
+    {
+      "number": 116,
+      "label": "Article 116",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection",
+      "text": "The court may, on its own motion or the motion of a litigant, decide to inspect a\ndisputed item either by presenting it to the court, if possible, or proceeding to\nits location or assigning the task to one of its judges, provided that such decision\nstates the time of inspection. The court may assign the court with jurisdiction\nover the disputed item to undertake the inspection; in such case, the assigned\njudge shall be notified of the assignment decision. Said decision shall contain\nall particulars pertaining to litigants, inspection place and other particulars\nnecessary for clarification of the case."
+    },
+    {
+      "number": 117,
+      "label": "Article 117",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection",
+      "text": "The court or the assigned or delegated judge shall invite the litigants at least 24\nhours prior to the scheduled time, not including travel time, by means of a\nmemorandum sent through the court administration stating the venue, day and\nhour of the meeting.\nThe court may, if necessary, place the item subject of inspection under custody\nuntil a judgment is issued or to any other time it deems proper."
+    },
+    {
+      "number": 118,
+      "label": "Article 118",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection",
+      "text": "The court and the judge assigned or delegated for inspection may appoint one\nor more experts to assist in the inspection. The court, the assigned or delegated\njudge may hear the testimony of any witness at the place of dispute."
+    },
+    {
+      "number": 119,
+      "label": "Article 119",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection",
+      "text": "A transcript of inspection result shall be drafted and signed by the inspector,\nclerk, attending experts, witnesses and litigants. Said transcript shall be entered\ninto the case file."
+    },
+    {
+      "number": 120,
+      "label": "Article 120",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection",
+      "text": "Any person with interest in establishing facts that may become subject of a\ndispute before the court in the future may file a summary case before the\ncompetent court with venue jurisdiction for inspection of such facts – in the\npresence of persons with interest – and establishing their conditions. Request\nfor inspection shall be made by means of a statement in accordance with\nstandard case-filing procedures. Inspection and establishment of the condition\nshall be in accordance with the provisions of this Law."
+    },
+    {
+      "number": 121,
+      "label": "Article 121",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony",
+      "text": "A litigant who, during proceedings, requests proof by testimony of witnesses\nshall state in writing or orally during the hearing the facts he seeks to prove. If\nthe court determines that such facts are admissible under the provisions of\nArticle 101 of this Law, it shall decide to hear the witnesses, schedule a hearing\nfor such purpose and ask the litigant to bring said witnesses."
+    },
+    {
+      "number": 122,
+      "label": "Article 122",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony",
+      "text": "If a witness has an excuse for not appearing to testify, the judge shall proceed\nto his place to hear his testimony or the court may assign one of its judges for\nsuch purpose. If the witness resides outside the jurisdiction of the court, it shall\ndelegate the court of his place of residence to hear his testimony."
+    },
+    {
+      "number": 123,
+      "label": "Article 123",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony",
+      "text": "The testimony of each witness shall be heard individually in the presence of the\nlitigants but not in the presence of other witnesses whose testimony had not\nbeen heard. Failure of the litigant testified against to attend a testimony shall\nnot preclude hearing it, and the same shall be read to him when he attends.\nUpon verification of his identity, a witness shall state his full name, age,\noccupation, place of residence and his relationship to the litigants whether by\nkinship, employment or any other form of relationship, if applicable."
+    },
+    {
+      "number": 124,
+      "label": "Article 124",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony",
+      "text": "Testimony shall be given orally. The use of written notes during testimony is\npermitted only with the approval of the judge provided it is justified by the nature\nof the case. A litigant against whom testimony is made may indicate to the court\nmatters that may prejudice the witness or his testimony."
+    },
+    {
+      "number": 125,
+      "label": "Article 125",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony",
+      "text": "The judge may, at his own motion or at the motion of a litigant, direct to the\nwitness questions he deems conducive to revealing the truth. The judge shall\naccede to the request of the litigant in this regard unless the question is\nimmaterial."
+    },
+    {
+      "number": 126,
+      "label": "Article 126",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony",
+      "text": "If an adverse party requests time to bring witnesses absent from the hearing,\nhe shall be granted the shortest period of time that is necessary in the opinion\nof the court. If he fails to bring them to the scheduled hearing or brought persons\nwhose testimony was not conducive, he shall be allowed another period and\nwarned that he would be deemed unable if he fails to present his witnesses. If\nhe fails to present them in the third hearing, or presents some of the witnesses\nwhose testimony is not conducive, the court may decide the dispute. If he does\nnot present his witnesses, due to their absence or his lack of knowledge of their\nplace of residence, he shall have the right to file a case when they are available."
+    },
+    {
+      "number": 127,
+      "label": "Article 127",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony",
+      "text": "The testimony of a witness and his answers to questions directed at him shall\nbe entered into the record and stated in the first person without change. It shall\nthen be read to him and he may enter any amendment thereto. The amendment\nshall be entered after the text of the testimony and signed by the witness and\nthe judge."
+    },
+    {
+      "number": 128,
+      "label": "Article 128",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "1. The court may, when necessary, decide to assign one expert or more. The\ncourt’s decision shall specify his task, time for submitting his report, hearing\ndate and, when necessary, an advance payment for the expert's fees and\nexpenses, the litigant to deposit such payment and the deadline for making\nsuch deposit. The court may appoint an expert to provide an oral opinion in\na hearing; in which case, the opinion shall be entered into the record.\n2. Regulations of this Law shall determine rules for expert fees and expenses.\n3. Courts may seek the expertise of employees of government agencies.\n4. Regulations of this Law shall define the power of the Expertise Department\nat the Ministry of Justice which shall prepare a list of experts from other than\ngovernment employees to assist the courts. Experts included in said list shall\nsatisfy the following conditions:\na) Be of good conduct.\nb) Hold a valid license issued by the competent authority to practice his\nprofession.\n5. A department named Department of Experts shall be established in each\ncourt, as needed, and shall comprise members of the review committee,\nengineers, surveyors, interpreters and the like and shall be supervised by\nthe chief judge."
+    },
+    {
+      "number": 129,
+      "label": "Article 129",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "If a litigant fails to deposit the required amount by the date set by the court, the\nother litigant may deposit said amount without prejudice to his right to recourse\nagainst the adverse party if a judgment is made in his favor. If the amount is not\ndeposited by either party and deciding the case is dependent on determination\nof the experts, the court may suspend the case until the amount is deposited."
+    },
+    {
+      "number": 130,
+      "label": "Article 130",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "If the litigants agree on a particular expert, the court may approve their\nagreement; otherwise, it may select an expert in its own discretion and shall\nprovide grounds thereof."
+    },
+    {
+      "number": 131,
+      "label": "Article 131",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "Within the three days following depositing the amount, the court shall call the\nexpert and explain to him his task in accordance with the assignment decision,\nand shall provide him with a copy thereof. The expert shall have access to\ndocuments deposited in the case file but he may not take any of said documents\nwithout the court’s permission."
+    },
+    {
+      "number": 132,
+      "label": "Article 132",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "If the expert is not a court employee, he may, within three days of receiving his\nassignment decision, ask the court to relieve him of the assigned task. In this\ncase, the court shall appoint another expert. It may, in accordance with Sharia,\nmake an expert, who fails to perform his task, pay the costs spent in vain."
+    },
+    {
+      "number": 133,
+      "label": "Article 133",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "Experts may be disqualified for the same reasons that disqualify judges. The\ncourt appointing the expert shall decide on disqualification motion in an\nunappealable decision. A motion to disqualify an expert made by the litigant\nwho selected him shall be denied unless the reason for disqualification occurred\nafter selection. No motion for disqualification may be granted once proceedings\nare closed."
+    },
+    {
+      "number": 134,
+      "label": "Article 134",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "The expert shall set a date for commencing his work no later than 10 days\nfollowing the date of receipt of the assignment decision, and shall notify the\nlitigants of the place and time of the meeting in a timely manner. The expert\nshall commence his work even in the absence of the litigants provided that they\nare duly notified."
+    },
+    {
+      "number": 135,
+      "label": "Article 135",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "The expert shall prepare a statement detailing his tasks, attendance,\nstatements and comments of the litigants as well as statements of persons\nconcerned, and have it signed by them. The expert shall enclose with his\nstatement a signed report providing the results of his work as well as his opinion\nand grounds thereof. If there are more than one expert, and they disagree, they\nshall present a single report in which they mention their individual opinions and\ngrounds thereof."
+    },
+    {
+      "number": 136,
+      "label": "Article 136",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "The expert shall deposit with the court his report and related statements and\ndocuments received. He shall inform the litigants of such deposit by registered\nmail within 24 hours following such a deposit."
+    },
+    {
+      "number": 137,
+      "label": "Article 137",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "The court may, if it finds it necessary, summon the expert to a hearing to discuss\nhis report. The court may return the report to the expert to rectify any errors or\ndeficiencies, or it may assign such task to another expert or experts."
+    },
+    {
+      "number": 138,
+      "label": "Article 138",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise",
+      "text": "The expert's opinion is for guidance and may not be binding on the court."
+    },
+    {
+      "number": 139,
+      "label": "Article 139",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "A document used for evidence shall be either on official paper or ordinary\npaper. An official paper is a paper on which a public servant or a person\nassigned to public service records actions taken by him or instructions received\nfrom concerned parties, pursuant to the law and within his powers and\njurisdiction.\nAn ordinary paper is a paper signed, sealed, or fingerprinted by the person\nissuing it."
+    },
+    {
+      "number": 140,
+      "label": "Article 140",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "The court shall determine the effects of any alteration, deletion, insertion or\nother material defects in a document on its validity as evidence.\nIf the court finds the validity of a document questionable, it may ask the public\nservant who issued it or the person who drafted it for clarification."
+    },
+    {
+      "number": 141,
+      "label": "Article 141",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "Challenge to official documents may not be allowed except by claiming forgery,\nunless the content is in violation of Sharia."
+    },
+    {
+      "number": 142,
+      "label": "Article 142",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "If the person to whom the contents of a document is ascribed denies that the\nhandwriting, signature, fingerprint or seal belongs to him or to his successor or\ndeputy while the document is material to the dispute and the facts and\ndocuments of the case are not sufficient to convince the court of the validity of\nthe handwriting, signature, fingerprint or seal, the court may order a questioned\ndocument examination (QDE) to be made under its supervision by one or more\nexperts to be named in the QDE decision."
+    },
+    {
+      "number": 143,
+      "label": "Article 143",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "The denied handwriting, signature, fingerprint or seal shall be compared with\nthe established handwriting, signature, fingerprint or seal of the person to whom\nthe document is ascribed."
+    },
+    {
+      "number": 144,
+      "label": "Article 144",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "The disputed document shall be signed by the judge and the clerk indicating\nthat they have examined it. Transcript shall be entered into the record showing\nadequately the condition and description of the document. Such transcript shall\nbe signed by the judge, the clerk and the litigants."
+    },
+    {
+      "number": 145,
+      "label": "Article 145",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "Litigants shall appear on the date set by the judge to present documents in\norder for the court to select from among them the documents suitable for QDE.\nIf the litigant upon whom the burden of proof falls fails to appear for no excuse,\na decision forfeiting his right to use the disputed document as evidence may be\nmade. If his adverse party fails to appear, the documents presented for\ncomparison may be deemed valid."
+    },
+    {
+      "number": 146,
+      "label": "Article 146",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "The judge and the clerk shall affix their signatures on the QDE documents prior\nto examination, and the transcript shall so indicate."
+    },
+    {
+      "number": 147,
+      "label": "Article 147",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "If the original official document exists, a copy thereof issued by a public servant\nwithin his competence and attested as a true copy of the original shall have the\nforce of the original official document to the extent that he determines it to be\ntrue as the original. An attested copy shall be considered a true copy of the\noriginal unless disputed by a litigant; in such case, the copy shall be compared\nagainst the original. No copy shall be admissible in court if it is not attested to\nbe a true copy of the original."
+    },
+    {
+      "number": 148,
+      "label": "Article 148",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "A person holding an ordinary document may sue the person whom the\ndocument establishes a right against to make him acknowledge such right,\neven if the obligation set forth therein is not due at the time of the litigation. This\nshall be by means of a petition filed in accordance with standard case-filing\nprocedures. If the defendant appears and admits the authenticity of the\ndocument, the court shall record his admission. In case of denial, the court shall\norder verification under the aforementioned procedures."
+    },
+    {
+      "number": 149,
+      "label": "Article 149",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "When necessary, the court may, on its own motion or the motion of a litigant,\norder as follows:\n1. Obtain documents or papers from government agencies in the Kingdom if\nthe litigants are unable to do so. The litigant may indicate the content of such\ndocuments and their bearing on the case.\n2. Include any third party in order to compel him to produce documents or\npapers in his possession. The court may also refuse so if the holder has a\nlegitimate interest in refusing to present the same."
+    },
+    {
+      "number": 150,
+      "label": "Article 150",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "A claim of forgery may be made at any stage of the case by means of a petition\nto the court setting forth all places of forgery claimed and verification\nprocedures required for proof. A person charged with forgery may request\nverification process be suspended at any stage by waiving his right to use the\ndisputed document; in such case, the court may, if the claimant of forgery so\nrequests for a legitimate interest, order entry of the document into the record or\nkeeping it on file."
+    },
+    {
+      "number": 151,
+      "label": "Article 151",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "A claimant of forgery shall deliver to the court the disputed document if in his\npossession or the copy served to him. If the document is in the possession of\nthe adverse party, the judge, upon reviewing the petition, shall order him to\ndeliver such document to the court. If the adverse party declines to deliver the\ndocument and the court is unable to find it, it shall be deemed non-existent.\nThis shall not preclude taking any future action with respect to said document."
+    },
+    {
+      "number": 152,
+      "label": "Article 152",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "If the claim of forgery is material to the dispute while the facts and documents\nof the case are insufficient to convince the court whether the document is\ngenuine or forged, and the court determines that the investigation requested is\nmaterial to the case, the court shall order such investigation."
+    },
+    {
+      "number": 153,
+      "label": "Article 153",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "If a document is established to be forged, the court shall send said document\nand a copy of the relevant transcripts to the competent authority to take\nnecessary penal action."
+    },
+    {
+      "number": 154,
+      "label": "Article 154",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "The court may, even if no claim of forgery is made before it, exclude any\ndocument if it appears from its condition or from the circumstances of the case\nto be forged or suspected to be forged. The court may also exclude any\ndocument of questionable validity. In such cases, the court shall provide in its\njudgment the circumstances and presumptions upon which it based its\njudgment."
+    },
+    {
+      "number": 155,
+      "label": "Article 155",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing",
+      "text": "A person who fears that a forged document may be used against him may sue\nthe person holding or benefiting from such document. This shall be by means\nof a petition filed in accordance with regular case-filing procedures. In\ninvestigating this case, the court shall observe the aforementioned rules and\nprocedures."
+    },
+    {
+      "number": 156,
+      "label": "Article 156",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing > Chapter 8: Presumptions",
+      "text": "A judge may draw one or more presumptions from the facts of the case or from\nquestioning litigants or witnesses as grounds for his judgment, or complement\nincomplete established evidence, so that he becomes satisfied with the\nevidence to render judgment."
+    },
+    {
+      "number": 157,
+      "label": "Article 157",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing > Chapter 8: Presumptions",
+      "text": "Each litigant may rebut the presumption inferred by the judge; in such case, the\npresumption loses its value as proof."
+    },
+    {
+      "number": 158,
+      "label": "Article 158",
+      "chapter": "Part 9: Evidentiary Procedures > Chapter 1: General Provisions > Chapter 2: Questioning Litigants and Admissions > Chapter 3: Oath > Chapter 4: Inspection > Chapter 5: Testimony > Chapter 6: Expertise > Chapter 7: Writing > Chapter 8: Presumptions",
+      "text": "In a dispute over ownership, possession of movable property shall be a\nrebuttable presumption of ownership by the possessor. The adverse party may\nprove otherwise."
+    },
+    {
+      "number": 159,
+      "label": "Article 159",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "Upon completion of arguments, the court shall decide the case forthwith or\npostpone rendering judgment to another hearing and inform the litigants of the\nclosing of arguments and of the date for pronouncing the judgment."
+    },
+    {
+      "number": 160,
+      "label": "Article 160",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "In case of multiple judges, deliberations shall be in a closed session.\nNotwithstanding Article 162 of this Law, only judges who heard the arguments\nmay participate in the deliberations."
+    },
+    {
+      "number": 161,
+      "label": "Article 161",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "During deliberations, the court may not hear clarifications from a litigant except\nin the presence of the other litigant."
+    },
+    {
+      "number": 162,
+      "label": "Article 162",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "If several judges consider the case, judgment shall be rendered unanimously\nor by majority opinion. The minority shall be the first to enter its opinion in the\nrecord. The majority shall explain in the record its point of view in response to\nthe view of the minority. If no majority is reached or if opinions diverge into more\nthan two, the chief judge shall assign a judge to support one of the opinions so\nthat a majority is reached for judgment. If this proves unattainable, the\nChairman of the Supreme Judicial Council shall assign a judge for such\npurpose."
+    },
+    {
+      "number": 163,
+      "label": "Article 163",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "Upon closing of arguments and rendering of judgment in the case, the judgment\nshall be entered into the record preceded by the grounds on which it was based,\nand signed by the judge or judges who participated in consideration of the case."
+    },
+    {
+      "number": 164,
+      "label": "Article 164",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "The judgment shall be pronounced by reading its wording, or its wording and\ngrounds in an open hearing. The judges who participated in the deliberations\nshall be present when the judgment is pronounced. If one of the judges is\nunable to attend, his absence shall not affect the judgment if he has signed the\njudgment entered into the record."
+    },
+    {
+      "number": 165,
+      "label": "Article 165",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "Upon pronouncement of the judgment, the court shall inform the litigants of the\nprescribed manner and deadlines for appeal. Guardians, trustees,\nadministrators, representatives of government agencies and the like shall also\nbe informed – if the judgment is not in favor of their principals or less than what\nthey asked for – that the judgment must be appealed or reviewed and that the\ncase will be referred to the court of appeals."
+    },
+    {
+      "number": 166,
+      "label": "Article 166",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "1. Within a period not exceeding 20 days from the date of pronouncement of\nthe judgment, the court shall issue a decree containing a summary of the\ncase, responses, valid defenses, verbatim testimony of witnesses along with\nattestation of their characters, oaths, names of judges who participated in\nthe judgment, names of litigants, agents and witnesses, name of the court\nwhich considered the case, number and date of the case record, grounds\nand wording of the judgment, date of pronouncement, omitting redundant\nand repetitious sentences that have no bearing on the judgment. Said decree\nshall be signed by the judge or judges who participated in the judgment.\n2. Each judgment shall be entered in the judgments record, unless otherwise\ndecided by the Supreme Judicial Council.\n3. A copy of the judgment decree shall be delivered within a period not\nexceeding the period provided for in paragraph 1 of this Article."
+    },
+    {
+      "number": 167,
+      "label": "Article 167",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "If a judge’s jurisdiction over a case lapses before a judgment is rendered, his\nsuccessor may continue with the case from the point where the proceedings of\nhis predecessor ended. He shall read to the litigants what is in the record, which\nhe shall honor if signed by the previous judge along with the signatures of\nlitigants and witnesses. If proceedings entered into the record are not signed\nby one or more of the litigants or the judge and the litigants have not\nacknowledged the same, the arguments shall be heard anew."
+    },
+    {
+      "number": 168,
+      "label": "Article 168",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "1. The judgment decree which governs execution shall be sealed with the seal\nof the court after adding the following text: All ministries and government\nagencies shall enforce this judgment by all applicable legal means, even if it\nrequires the use of force by the police.\n2. The judgment decree shall be delivered only to the litigant with interest in its\nexecution. Copies of the judgment without the execution statement may be\ngiven to any party with interest."
+    },
+    {
+      "number": 169,
+      "label": "Article 169",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "The judgment shall be subject to expeditious execution, with or without bail as\nthe judge may deem fit, in the following circumstances:\na) Judgments in urgent matters.\nb) If the judgment involves alimony, breastfeeding cost, accommodation, child\nvisitation, surrender of a child to his custodian, returning a woman to her\nmahrahm or dissolution of marriage.\nc) If the judgment involves payment of wages of a servant, craftsman, laborer,\nbreastfeeding woman or custodian."
+    },
+    {
+      "number": 170,
+      "label": "Article 170",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments",
+      "text": "A court before which an appeal is filed may, if it determines that the grounds for\nsuch appeal would result in reversal of the judgment, order stay of execution if\nit fears that it could lead to grave harm."
+    },
+    {
+      "number": 171,
+      "label": "Article 171",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments > Chapter 2: Correction and Interpretation of Judgments",
+      "text": "The court shall, by a decision it issues pursuant to a petition by a litigant or upon\nits own motion, correct any material errors whether written or mathematical in\nthe judgment decree. Such correction shall, upon entry of the decision into the\ncase record, be made on the original decree and signed by the judge or judges\nof the issuing court."
+    },
+    {
+      "number": 172,
+      "label": "Article 172",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments > Chapter 2: Correction and Interpretation of Judgments",
+      "text": "If the court rejects the correction, the objection thereto shall be in conjunction\nwith the objection to the judgment itself. A decision to make corrections may be\nindependently objected to through regular procedures of objection."
+    },
+    {
+      "number": 173,
+      "label": "Article 173",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments > Chapter 2: Correction and Interpretation of Judgments",
+      "text": "If the wording of the judgment is vague or confusing, the litigants may file a\npetition for an interpretation from the court rendering such judgment, in\naccordance with applicable case-filing procedures."
+    },
+    {
+      "number": 174,
+      "label": "Article 174",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments > Chapter 2: Correction and Interpretation of Judgments",
+      "text": "The interpretation of judgment shall be added to the original decree and signed\nand sealed by the judge or judges of the issuing court. The interpretation shall\nbe deemed complementary to the original decree and shall be subject to\napplicable rules of appeal."
+    },
+    {
+      "number": 175,
+      "label": "Article 175",
+      "chapter": "Part 10: Judgments > Chapter 1: Rendering Judgments > Chapter 2: Correction and Interpretation of Judgments",
+      "text": "If a court neglects to decide on motions related to subject matter, the party with\ninterest may petition the court to order the adverse party to appear before it, in\naccordance with applicable procedures, and rule thereon."
+    },
+    {
+      "number": 176,
+      "label": "Article 176",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "Methods of objection to judgments are appeal, cassation and petition for\nreconsideration."
+    },
+    {
+      "number": 177,
+      "label": "Article 177",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "Only the party against whom judgment is rendered or whose petitions are not\nfully awarded may object to the judgment, unless the law provides otherwise."
+    },
+    {
+      "number": 178,
+      "label": "Article 178",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "1. No objection may be made to judgments issued before the case is decided\nand with which the litigation does not end wholly or partly except in\nconjunction with the objection to the judgment on the merits. Filing an\nobjection before rendering a decision on the merits may be permitted against\na decision to stay the case and against provisional and summary rulings and\njudgments subject to execution by force as well as judgments of lack of\njurisdiction.\n2. Objection to temporary and expeditious judgments and judgments subject to\nexecution by force shall not entail stay of execution."
+    },
+    {
+      "number": 179,
+      "label": "Article 179",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "1. The objection period to a judgment shall commence from the date a copy of\nthe judgment decree is delivered to the person against whom the judgment\nwas rendered and his signature was entered into the record or from the date\nset for receiving such copy if he is not present. If he fails to attend to receive\na copy of the judgment decree, said copy shall be deposited in the case file\non the same date, marking such date in the record. Such deposit shall be\ndeemed the commencement of the period for objection. The objection period\nto a judgment in absentia or a revised judgment before the Supreme Court\nshall commence from the date it is communicated to the person against\nwhom it was rendered or his agent.\n2. If the person against whom the judgment was rendered is imprisoned or\ndetained, the authority in charge of him shall bring him to court to receive a\ncopy of the judgment decree within the specified period. Said authority shall\nalso bring him to file his objection within the specified period."
+    },
+    {
+      "number": 180,
+      "label": "Article 180",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "The period for objection shall be stayed upon the death or loss of competence\nof the person filing the objection or loss of capacity of his agent. Such stay shall\ncontinue until the judgment is communicated to the heirs or their representative,\nor the contingency ends."
+    },
+    {
+      "number": 181,
+      "label": "Article 181",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "If a judgment is objected to on grounds of lack of jurisdiction, the court\nconsidering such objection shall limit its consideration to jurisdiction."
+    },
+    {
+      "number": 182,
+      "label": "Article 182",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "Reversal of judgments shall entail nullification of all subsequent decisions and\nproceedings based on the reversed judgment."
+    },
+    {
+      "number": 183,
+      "label": "Article 183",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "If part of a judgment is reversed, other parts shall remain enforceable, unless\nthe judgment is indivisible."
+    },
+    {
+      "number": 184,
+      "label": "Article 184",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions",
+      "text": "Courts of appeal and the Supreme Court shall be governed by the rules and\nprocedures established before courts of first instance, unless otherwise\nprovided for in this Law."
+    },
+    {
+      "number": 185,
+      "label": "Article 185",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "1. All judgments rendered by courts of first instance shall be appealable except\nfor judgments in petty cases as determined by the Supreme Judicial Council.\n2. The Supreme Judicial Council shall define the judgments for which revision\nby the court of appeals shall suffice.\n3. Any person against whom an appealable judgment is rendered may, within\nthe statutory objection period, file for revision by the court of appeals without\na hearing, unless the adverse party petitions for an appeal. In all cases, the\ncourt of appeals may, on its own motion, consider the case by means of a\nhearing.\n4. If the person against whom a judgment is rendered is an endowment\nadministrator, trustee, guardian or representative of a government agency or\nthe like and fails to file an appeal within the statutory period, or if said person\nis absent and cannot be notified of the judgment, the court shall refer the\njudgment to the court of appeals for revision, regardless of the subject of the\njudgment. This shall not include the following:\na) A judgment issued by the competent court against the General\nCommission for Guardianship over Property of Minors and those of\nSimilar Status to enforce a prior final judgment.\nb) A judgment regarding a sum of money which a person deposited for the\nbenefit of another person or his heirs, unless the depositor or his\nrepresentative objects thereto."
+    },
+    {
+      "number": 186,
+      "label": "Article 186",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "New petitions shall not be accepted in an appeal and the court shall dismiss\nthem on its own motion."
+    },
+    {
+      "number": 187,
+      "label": "Article 187",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "The period for filing an appeal or a petition for revision shall be 30 days, with\nthe exception of judgments rendered in summary cases which shall be 10 days.\nIf an appellant fails to submit his appeal within said periods, his right to appeal\nor to file a petition for revision shall be forfeited and the competent court shall\nrecord the same upon the expiry of the objection period in the case record. A\nnote on the judgment decree and record shall be made, indicating that the\njudgment is final, without prejudice to the provision of Article 185(4) of this Law."
+    },
+    {
+      "number": 188,
+      "label": "Article 188",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "1. An appeal or a petition for revision shall be made by means of a brief\ndeposited with the court rendering the judgment. Such brief shall contain the\nappealed judgment, its number, date, grounds for objection, claims of the\nappellant and his signature as well as the date of depositing the brief.\n2. The court shall enter the brief in the relevant record on the date of deposit\nand refer the same immediately to the court rendering the judgment."
+    },
+    {
+      "number": 189,
+      "label": "Article 189",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "Upon reviewing the brief, the court which rendered the appealed judgment may\nreconsider such judgment in terms of grounds for appeal without a hearing,\nunless necessary. The court shall, at its discretion, affirm or amend its\njudgment. If the court affirms the judgment, it shall refer it along with a copy of\nthe case record and all papers to the court of appeals. If the court amends the\njudgment, the amended judgment shall be notified to the litigants and be\ngoverned by applicable procedures."
+    },
+    {
+      "number": 190,
+      "label": "Article 190",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "1. The court of appeals shall schedule a hearing to consider the appeal or\npetition for revision if it determines to consider the same by means of a\nhearing. If the appellant or the person filing the petition for revision fails to\nappear before the court after being notified of the date of the hearing, and\n60 days have lapsed without making a request to proceed with the case or\nfailing to appear in court after commencement of proceedings, the court\nshall, on its own motion, rule that his right to appeal or to file a petition for\nrevision is deemed forfeited, without prejudice to the provision of Article\n185(4) of this Law.\n2. The court of appeals shall consider the appeal or petition for revision based\non the documents provided in the case file and new defense or evidence\npresented by litigants in support of their grounds for appeal as stated in the\nbrief. Upon hearing the testimony of litigants with respect to the appeal or\npetition for revision, the court shall, if it decides to consider the case by\nmeans of a hearing, affirm or reverse the judgment either wholly or partly\nand rule on the reversed part."
+    },
+    {
+      "number": 191,
+      "label": "Article 191",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "If the court of appeals, in cases reviewed without hearings, determines that the\nconsequences of the text of the judgment are consistent with Sharia, it shall\naffirm the judgment and provide comments not requiring the reversal of\njudgment. If it reverses the judgment wholly or partly, it shall rule on the\nreversed part after hearing the litigants."
+    },
+    {
+      "number": 192,
+      "label": "Article 192",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal",
+      "text": "If the court of appeals nullifies the judgment of lack of jurisdiction rendered by\nthe court of first instance, or admits a partial defense resulting in a stay of action,\nit shall refer the case to the court rendering the judgment for consideration of\nthe merits."
+    },
+    {
+      "number": 193,
+      "label": "Article 193",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation",
+      "text": "A party may apply to the Supreme Court for reversal of judgments and\ndecisions rendered or affirmed by the courts of appeal if the objection is based\non any of the following grounds:\n1. Violation of provisions of Sharia or laws not conflicting therewith.\n2. Issuance of a judgment by a court not properly formed in accordance with\nthe law.\n3. Issuance of a judgment by an incompetent court or circuit.\n4. Error in characterization or description of a case."
+    },
+    {
+      "number": 194,
+      "label": "Article 194",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation",
+      "text": "The period for filing a petition for reversal of judgment shall be 30 days,\nexcluding judgments rendered in summary cases, the period for which shall be\n15 days. If an appellant fails to file his objection within said periods, his right to\nsuch petition shall be deemed forfeited."
+    },
+    {
+      "number": 195,
+      "label": "Article 195",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation",
+      "text": "1. A petition for reversal of judgment shall be made through a brief filed with\nthe court of appeals which rendered or affirmed the judgment. Such appeal\nshall include the name and address of each litigant, the judgment objected\nto, its number, date, grounds for objection, requests, signature of the\nappellant and date of filing.\n2. The court of appeals shall enter the brief in the relevant record on the date\nof filing and refer the same along with a copy of the case record and all\ndocuments to the Supreme Court within a period not exceeding three days\nfrom the end of the objection period."
+    },
+    {
+      "number": 196,
+      "label": "Article 196",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation",
+      "text": "An objection before the Supreme Court shall not stay execution of judgment\nunless otherwise provided by law. The court may order provisional stay of\nexecution of judgment if petitioned to do so in the brief and if execution of said\njudgment would result in grave and irreparable harm. If the court orders stay of\nexecution, it may require a security or a solvent guarantor, or whatever it deems\nappropriate, to protect the rights of the respondent."
+    },
+    {
+      "number": 197,
+      "label": "Article 197",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation",
+      "text": "The Supreme Court shall consider the formalities of the appeal with respect to\nthe information provided for in Article 195(1) of this Law, and whether said\nappeal is made by an eligible person. The court shall decide whether to grant\nthe objection or dismiss it in form. If the appeal is dismissed in form, the court\nshall render a separate decision to this effect."
+    },
+    {
+      "number": 198,
+      "label": "Article 198",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation",
+      "text": "If the Supreme Court grants the objection in form, it shall determine its subject\nmatter based on available documents, without discussing the facts of the case.\nIf the court is not satisfied with the grounds of the objection, it shall affirm the\njudgment or reverse it in whole or in part – as the case may be – stating grounds\ntherefor, and return the case to the rendering court to rule thereon anew by a\ndifferent judge. If the judgment is appealed for the second time and the case is\nready for judgment, the court shall rule thereon and its judgment shall be\ndeemed final."
+    },
+    {
+      "number": 199,
+      "label": "Article 199",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation",
+      "text": "Grounds not stated in the memorandum of appeal may not be invoked before\nthe Supreme Court, unless such grounds pertain to mandatory aspects of the\nLaw. In such case, the court shall, upon its own motion, rule accordingly."
+    },
+    {
+      "number": 200,
+      "label": "Article 200",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation > Chapter 4: Petition for Reconsideration",
+      "text": "1. Any litigant may petition for reconsideration of final judgments in the following\ncircumstances:\na) If the judgment was based on documents that were subsequently found\nto be forged or based on a testimony that was subsequently ruled\nperjurious by the competent authority.\nb) If the petitioner, after the judgment was rendered, obtained conclusive\ndocuments for the case that he was unable to produce before the\nrendering of the judgment.\nc) If an act of fraud was committed by the adverse party which would have a\nbearing on the judgment.\nd) If the judgment awards what the litigants did not ask for or more than what\nthey asked for.\ne) If the wording of the judgment was contradictory;\nf) If the judgment was in absentia.\ng) If the judgment was rendered against a person not properly represented\nin the case.\n2. Anyone who was bound by the judgment and was neither joined nor did he\nintervene in the case may petition for reconsideration of final judgments."
+    },
+    {
+      "number": 201,
+      "label": "Article 201",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation > Chapter 4: Petition for Reconsideration",
+      "text": "The period for a petition for reconsideration shall be 30 days commencing from\nthe day on which the petitioner is established to have known of the forgery of\nthe documents, the testimony was ruled to be perjurious, the document\nprovided for in Article 200(1)(b) of this Law appeared, or fraud was discovered.\nThe period for cases provided for in Article 200(1)(d, e, f and g) of this Law shall\ncommence from the time the judgment was communicated. The period for the\ncase provided for in Article 200(2) of this Law shall commence on the date the\npetitioner becomes aware of the judgment."
+    },
+    {
+      "number": 202,
+      "label": "Article 202",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation > Chapter 4: Petition for Reconsideration",
+      "text": "1. A petition for reconsideration shall be made through a brief filed with the court\nwhich rendered the judgment. Such brief shall indicate the judgment sought\nto be reconsidered, its number, date and grounds for reconsideration. The\ncourt administration shall, on the date of deposit, enter the brief in the\nrelevant record. If the judgment is affirmed by the Supreme Court or court of\nappeals, the court which rendered the judgment shall refer the petition for\nreconsideration to the court which has affirmed the judgment to consider the\npetition. The court shall, as the case may be, issue a decision granting or\ndenying the petition for reconsideration. If the petition is granted, the case\nshall be considered by the court which rendered the judgment and shall notify\nthe parties thereof. If the petition is denied, the petitioner may object to such\ndenial in accordance with applicable procedures, unless the decision was\nrendered by the Supreme Court.\n2. Filing a petition for reconsideration shall not stay execution of judgment.\nNonetheless, the court considering said petition may order stay of execution\nof judgment if petitioned to do so and if execution of said judgment would\nresult in grave and irreparable harm. If the court orders stay of execution, it\nmay require a security or a solvent guarantor, or whatever it deems\nappropriate, to protect the rights of the respondent."
+    },
+    {
+      "number": 203,
+      "label": "Article 203",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation > Chapter 4: Petition for Reconsideration",
+      "text": "Judgments rendered on the merits of the case by a court other than the\nSupreme Court, upon a petition for reconsideration, may be objected to by\nmeans of appeal or request for reversal, as the case may be."
+    },
+    {
+      "number": 204,
+      "label": "Article 204",
+      "chapter": "Part 11: Methods of Objecting to Judgments > Chapter 1: General Provisions > Chapter 2: Appeal > Chapter 3: Cassation > Chapter 4: Petition for Reconsideration",
+      "text": "1. A decision denying the petition and a judgment issued on the merits of the\ncase upon granting such petition may not be objected to by means of a\npetition for reconsideration.\n2. Any litigant may file another petition for reconsideration on grounds not\npreviously considered, as provided for in Article 200 of this Law."
+    },
+    {
+      "number": 205,
+      "label": "Article 205",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "The court with jurisdiction over consideration of the subject shall provisionally\nconsider the case on the merits in urgent matters related to the same case that\nthe lapse of time may affect. Such decision shall not affect the merits of the\ncase, regardless of whether the motion for a provisional action was made\nindependently or as part of the original case."
+    },
+    {
+      "number": 206,
+      "label": "Article 206",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "Summary cases shall include the following:\na) Cases of inspection to establish a condition.\nb) Cases of an injunction banning travel.\nc) Cases of an injunction banning interference with possession and recovery of\npossession.\nd) Cases of suspension of new actions.\ne) Cases requesting receivership.\nf) Cases relating to daily wages.\ng) Other cases deemed urgent by law."
+    },
+    {
+      "number": 207,
+      "label": "Article 207",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "The period for appearance in summary cases shall be 24 hours. Such period\nmay, in compelling circumstances, be reduced by court order."
+    },
+    {
+      "number": 208,
+      "label": "Article 208",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "A claimant may, during consideration of the case or immediately before it, file\na summary case before the competent court to ban his adverse party from\ntravel. The judge shall issue an injunction banning travel in case of a flight risk.\nIn such case, the claimant shall provide security, as determined by the judge,\nto indemnify the defendant if the case is found to have no merit. A judgment\nindemnifying the defendant for damages resulting from the banning of his travel\nshall be appended to the judgment on the merit."
+    },
+    {
+      "number": 209,
+      "label": "Article 209",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "1. A person having a prima facie claim may file a summary case before the\ncourt having jurisdiction over the merits of the case for injunction against\ninterference with possession or recovery of possession. The judge shall\nissue an injunction against interference with possession or recovery of\npossession if deemed justifiable. Such an injunction shall have no effect on\nthe merits of the claim, nor be deemed as evidence therefor. A person\ndisputing the basis of such claim may resort to court as provided for in this\nLaw.\n2. A possessory action may not be combined with a claim of ownership;\notherwise, the possessory action shall be deemed forfeited. A defendant in\na possessory action may not base his defense on a claim of ownership and\nhis claim of ownership may not be granted prior to determination of the\npossessory action and execution of judgment; unless he actually\nrelinquishes his possession to the adverse party."
+    },
+    {
+      "number": 210,
+      "label": "Article 210",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "A person harmed by an unlawful action may file before the competent court a\nsummary suit to halt said action. The judge shall issue an injunction if he is\nconvinced of the justifications. Such an injunction shall have no effect on the\noriginal right, nor may it serve as evidence therefor. A person disputing the\nsame may resort to court as provided for in this Law."
+    },
+    {
+      "number": 211,
+      "label": "Article 211",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "A receivership suit involving disputed movable or immovable property where\nthe right thereto is not established shall be filed with the court having jurisdiction\nover the subject matter. The judge may order placement under receivership if\nthe party having an interest in the movable or immovable property presents\nreasonable cause that an imminent danger is feared if the property remains in\nthe hands of its possessor. The receiver shall undertake to hold and manage\nthe property and return it along with the proceeds derived therefrom to the\nperson whose right thereto is established."
+    },
+    {
+      "number": 212,
+      "label": "Article 212",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "The appointment of a receiver shall be by agreement of all concerned parties.\nThe judge shall make the appointment if no agreement is reached. The\njudgment for receivership shall specify the obligations, rights and powers of the\nreceiver. If the judgment is silent on the matter, the provisions of this Law shall\napply."
+    },
+    {
+      "number": 213,
+      "label": "Article 213",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "The receiver shall safeguard the property under his custody and manage it as\nnecessary. He shall exercise due diligence and may not directly or indirectly\ndelegate in the performance of his duties, wholly or partly, a concerned party\nwithout the consent of the remaining parties."
+    },
+    {
+      "number": 214,
+      "label": "Article 214",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "In other than management matters, the receiver may only act with the consent\nof all parties concerned or upon permission from the judge."
+    },
+    {
+      "number": 215,
+      "label": "Article 215",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "A receiver may receive the remuneration specified in the judgment, unless he\nwaives the same."
+    },
+    {
+      "number": 216,
+      "label": "Article 216",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "The receiver shall maintain orderly books and records. The judge shall require\nhim, when necessary, to use books carrying the court stamp. He shall, at\nintervals specified by the judge, or annually at least, give the concerned parties\na financial statement along with supporting documents. If the receiver is\nappointed by court, he shall deposit a copy of such statement with the court."
+    },
+    {
+      "number": 217,
+      "label": "Article 217",
+      "chapter": "Part 12: Summary Proceedings",
+      "text": "Receivership shall end by agreement of all the parties concerned or by a court\njudgment. The receiver shall then return the property under his custody to the\nperson chosen by the concerned parties or appointed by the judge."
+    },
+    {
+      "number": 218,
+      "label": "Article 218",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions",
+      "text": "1. Provisions relating to recusal of judges shall apply to establishment of title\nand other declarations if the same are disputed or the relevant judge has\ndirect interest therein.\n2. Provisions relating to cancellation, suspension, discontinuation and\nabandonment of a lawsuit shall apply to disputed declarations.\n3. Provisions relating to correction and interpretation of judgments shall apply\nto declarations.\n4. The regulations of this Law shall define the controls and procedures relating\nto the division of common property within the jurisdiction of the court,\nincluding distribution of inheritance, procedures for appointing liquidators,\nservice of notices, summoning, announcement and eviction from real\nproperty."
+    },
+    {
+      "number": 219,
+      "label": "Article 219",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "A judge may not register the establishment of an endowment unless ownership\nof said endowment by the endower is established and upon verification that his\nrecord is free from any encumbrances to such registration."
+    },
+    {
+      "number": 220,
+      "label": "Article 220",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "An applicant for endowment registration shall submit an application to the\ncompetent court supported by official documents that establish ownership of\nthe property to be endowed."
+    },
+    {
+      "number": 221,
+      "label": "Article 221",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "Endowments without registered title deeds shall be established in accordance\nwith applicable rules and procedures for establishment of titles."
+    },
+    {
+      "number": 222,
+      "label": "Article 222",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "Subject to the provisions of ownership of real property by non-Saudis,\nendowment of real property owned by non-Saudis – within the Kingdom – may\nnot be registered unless the following conditions are satisfied:\na) the endowment is in compliance with Sharia;\nb) the endowment is for a continuing charity cause;\nc) the endowment is for Saudi individuals or Saudi charities;\nd) the endowment administrator is a Saudi citizen;\ne) the endowment deed provides for the right of the General Endowment\nCouncil to oversee the endowment; and\nf) the endowment is subject to the regulations governing endowments in the\nKingdom."
+    },
+    {
+      "number": 223,
+      "label": "Article 223",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "1. If public interest requires a public endowment to be sold, substituted or\ntransferred, the administrator may do so upon permission by the court where\nsaid endowment is located, and shall establish legitimate grounds for selling,\nsubstituting or transferring said endowment, provided that the proceeds are\nused, without delay, to acquire a similar property.\n2. If interest dictates disposal of a private endowment by means of sale,\nexchange, transfer, pledge, borrowing, construction, purchase of a\nsubstitute, parceling, merger, lease for more than 10 years or trading in the\nproceeds thereof – if the price is insufficient to buy a substitute – the\nadministrator may do so upon the competent court permission."
+    },
+    {
+      "number": 224,
+      "label": "Article 224",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "If the guardian is other than the father and there is a need to act on behalf of a\nminor or an absentee in the purchase, sale, division, pledge or merger of a real\nproperty, or borrowing for him or disposal, for any reason, of his money that is\ndeposited by the court with the Saudi Arabian Monetary Agency or a branch\nthereof or with a local bank, or if the person placed under guardianship is a\npartner in the companies whose articles of incorporation are to be registered or\ntheir capitals to be increased, the guardian or trustee may not undertake such\nactions without the competent court permission."
+    },
+    {
+      "number": 225,
+      "label": "Article 225",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "1. All judgments permitting the actions of guardians, trustees and\nadministrators shall be revised by the court of appeals, with the exception of\njudgments for pledging, borrowing, registration of articles of incorporation,\nincrease of corporate capitals and purchase of real property for minors,\nunless otherwise determined by the Supreme Judicial Council.\n2. The judgment of the court of appeals on revision of judgments referred to in\nparagraph 1 of this Article shall be deemed final.\n3. If the court of appeals reverses the judgments referred to in paragraph 1 of\nthis Article, it shall rule on the same after hearing the declaration and request\nfor disposal."
+    },
+    {
+      "number": 226,
+      "label": "Article 226",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors",
+      "text": "1. If an endowed real property or one belonging to a minor or an absentee is\nexpropriated for public interest, or if any of said parties has a common share\ntherein, the same shall be executed by a notary public, unless the substitute\nis a real property; in which case, it shall be permitted and executed by the\ncompetent court.\n2. The competent court shall deposit the sale proceeds of the real property with\nthe Saudi Arabian Monetary Agency or a branch thereof or with a local bank\nuntil disbursement thereof is permitted by the competent court."
+    },
+    {
+      "number": 227,
+      "label": "Article 227",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "Establishment of title is a request for a deed establishing ownership of real\nproperty not prompted by a contention from an adverse party, though it does\nnot preclude hearing the case concerning the right, if any."
+    },
+    {
+      "number": 228,
+      "label": "Article 228",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "Subject to the provisions of ownership of real property by non-Saudis, any\nperson claiming ownership of real property, whether a land or a building, shall\nbe entitled to request a deed establishing title from the court where the real\nproperty is located."
+    },
+    {
+      "number": 229,
+      "label": "Article 229",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "An application for establishment of title deed shall be made pursuant to a\npetition detailing the type, location, boundaries, sides and area of the real\nproperty – pursuant to a certified survey report – along with the ownership\ndocument, if any."
+    },
+    {
+      "number": 230,
+      "label": "Article 230",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "The court shall verify the location, boundaries, sides and area of the real\nproperty. The judge, or his designee, shall inspect the property with an\nengineer, if necessary. He shall prepare a report thereon and enter the same\nin the title establishment record."
+    },
+    {
+      "number": 231,
+      "label": "Article 231",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "Prior to recording the declaration and initiating the relevant evidentiary\nprocedures thereof, the court shall communicate in writing – with the objective\nof identifying any objection to the declarations – to the Ministry of Municipal and\nRural Affairs, Ministry of Islamic Affairs, Endowments, Da’wah and Guidance,\nand the Ministry of Finance; and with respect to property outside cities and\nvillages, to the National Guard, Ministry of Defense, Saudi Commission for\nTourism and Antiquities, Ministry of Agriculture, Ministry of Petroleum and\nMineral Resources, Ministry of Transport, Ministry of Water and Electricity and\nthe Saudi Wildlife Authority or branches thereof or entities acting on their behalf\nas well as other agencies defined by the Prime Minister. The court shall also\norder the publication of the title establishment application in a newspaper\npublished in the area where the real property is located. If no such newspaper\nexists, the court shall order publication in the newspaper having the largest\ncirculation in the area."
+    },
+    {
+      "number": 232,
+      "label": "Article 232",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "In addition to the provisions of Article 231 of this Law, the court shall seek the\napproval of the Prime Minister if petitioned to establish title to a land that has\nnever been cultivated."
+    },
+    {
+      "number": 233,
+      "label": "Article 233",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "1. If 60 days lapse after notifying the government agencies concerned or after\npublication, as prescribed in Article 231 of this Law, without objection, the\ncourt shall proceed with establishing the title unless there is a Sharia or legal\nimpediment.\n2. Responses from agencies addressed along with their reference numbers\nand dates as well as name of the newspaper where the title establishment\napplication was published, its issue number, date and page number shall be\nentered into the title establishment record.\n3. Upon completion of title establishment procedures, the title establishment\ndeed shall be executed and shall include essential details provided in the\ntitle establishment record. Said deed shall be signed and stamped by the\njudge establishing the title and shall be entered in the relevant record."
+    },
+    {
+      "number": 234,
+      "label": "Article 234",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "1. If a dispute arises over a real property with no registered deed, the court\nshall, if said property falls within its jurisdiction, proceed with the\nestablishment of the title while considering the case in accordance with\nprocedures stipulated in this Law, unless urgent settlement of the dispute is\nrequired; in which case, the dispute shall be decided on without proceeding\nwith establishment of title. The judgment shall state that it shall not have the\nsame effect as the title establishment deeds. The judgment, upon becoming\nfinal, shall be kept in the case file and the winning party shall receive a copy\nthereof certified by the judge and chief judge.\n2. If the disputed property is beyond the court’s jurisdiction, the court shall rule\non the matter without proceeding with title establishment and shall refer the\ncase file, along with the judgment deed, to the court having jurisdiction over\nthe property in order to proceed with title establishment."
+    },
+    {
+      "number": 235,
+      "label": "Article 235",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title",
+      "text": "No title deed may be issued for lands and buildings in Mina and other Hajj sites.\nIf litigation arises regarding any such matter, whether over ownership or\nusufruct of real property, and a party produced a supporting document, the\ncourt shall forward a copy of the litigation record and the supporting document\nto the Supreme Court, without issuing a deed."
+    },
+    {
+      "number": 236,
+      "label": "Article 236",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title > Chapter 4: Establishment of Death and Determination of Heirs",
+      "text": "An applicant for establishment of death and determination of heirs shall submit\na declaration to that effect to the competent court. The declaration shall include\nthe name of the deceased, his last address, date, time and place of death and\nwitnesses to the death or a medical report to this effect from a medical center\nin the area. As to determination of heirs, the deed shall include names of heirs,\ntheir competencies, their relationship to the deceased, and witnesses for deaths\noccurring after the effective date of the Law of Civil Procedures promulgated by\nRoyal Decree No. (M/21) dated 20/05/1421H."
+    },
+    {
+      "number": 237,
+      "label": "Article 237",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title > Chapter 4: Establishment of Death and Determination of Heirs",
+      "text": "The court, if necessary, may instruct the declarant to publish the application for\nestablishment of death and determination of heirs in a newspaper published in\nthe area of the deceased. If no such newspaper exists, the court may order\npublication in the newspaper having the largest circulation in the area. The court\nmay also request the relevant administrative governor to investigate such\nrequest. Responses provided in the investigation shall be signed by the persons\nproviding them and shall be certified by the administrative agency conducting\nthe investigation."
+    },
+    {
+      "number": 238,
+      "label": "Article 238",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title > Chapter 4: Establishment of Death and Determination of Heirs",
+      "text": "The judge shall investigate the matter personally if he finds the results of the\ninvestigation insufficient. Upon completion of procedures, the judge shall issue\na death deed if death is established. Such deed shall determine the heirs, their\nnames, capacities and dates of birth, in accordance with Sharia."
+    },
+    {
+      "number": 239,
+      "label": "Article 239",
+      "chapter": "Part 13: Declarations > Chapter 1: General Provisions > Chapter 2: Endowments and Minors > Chapter 3: Establishment of Title > Chapter 4: Establishment of Death and Determination of Heirs",
+      "text": "The deed establishing death and determining heirs in the said form shall be\nauthoritative unless a judgment to the contrary is rendered."
+    },
+    {
+      "number": 240,
+      "label": "Article 240",
+      "chapter": "Part 14: Concluding Provisions",
+      "text": "1. The Implementing Regulations of this Law shall be drafted by the Ministry of\nJustice and the Supreme Judicial Council, with the participation of the\nMinistry of Interior with respect to relevant provisions, and shall be issued\npursuant to a decision by the Minister of Justice upon coordination with the\nCouncil, within a period not exceeding 90 days from the date of entry into\nforce of this Law. Said Regulations may be amended only in the same\nmanner of its promulgation.\n2. Competent departments at courts, whether existing or to be established,\nshall assume their administrative duties in accordance with this Law and its\nImplementing Regulations."
+    },
+    {
+      "number": 241,
+      "label": "Article 241",
+      "chapter": "Part 14: Concluding Provisions",
+      "text": "This Law shall supersede the Law of Civil Procedures promulgated by Royal\nDecree No. (M/21) dated 20/05/1421H and shall repeal any conflicting\nprovisions."
+    },
+    {
+      "number": 242,
+      "label": "Article 242",
+      "chapter": "Part 14: Concluding Provisions",
+      "text": "This Law shall enter into force following the date of its publication in the Official\nGazette."
+    }
+  ]
+}

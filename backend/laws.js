@@ -28,6 +28,7 @@ function loadLaws() {
     try {
       const law = JSON.parse(fs.readFileSync(path.join(LAWS_DIR, file), 'utf8'));
       for (const article of law.articles || []) {
+        article.searchTitleText = normalizeArabic(`${article.label} ${article.chapter || ''}`);
         article.searchText = normalizeArabic(
           `${law.nameAr} ${article.label} ${article.chapter || ''} ${article.text}`
         );
@@ -51,11 +52,19 @@ function searchLaws(query, limit = 5) {
   for (const law of laws) {
     for (const article of law.articles || []) {
       let score = 0;
+      let termsMatched = 0;
       for (const term of terms) {
-        if (article.searchText.includes(term)) score += 1;
+        const occurrences = article.searchText.split(term).length - 1;
+        if (occurrences > 0) {
+          termsMatched += 1;
+          score += Math.min(occurrences, 5);
+          if (article.searchTitleText.includes(term)) score += 6;
+        }
       }
-      if (score > 0) {
-        scored.push({ law, article, score });
+      if (termsMatched > 0) {
+        // Coverage (how many distinct query terms matched) dominates the ranking;
+        // raw frequency only breaks ties within the same coverage level.
+        scored.push({ law, article, score: termsMatched * 100 + score });
       }
     }
   }

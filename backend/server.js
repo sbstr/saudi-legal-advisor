@@ -11,6 +11,7 @@ const RATE_LIMIT_WINDOW_MS = Number(process.env.RATE_LIMIT_WINDOW_MS || 60_000);
 const RATE_LIMIT_MAX = Number(process.env.RATE_LIMIT_MAX || 30);
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || '';
 const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || 'claude-sonnet-5';
+const ANTHROPIC_TRANSLATE_MODEL = process.env.ANTHROPIC_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
 const SYSTEM_PROMPT = fs.readFileSync(path.join(ROOT, 'docs', 'system-prompt.md'), 'utf8');
 
 const MIME_TYPES = {
@@ -132,6 +133,31 @@ function requestAnthropic(payload) {
   });
 }
 
+// The ingested law articles are stored in English (official Bureau of Experts
+// translations), but users ask in Arabic. Local keyword search can't match an Arabic
+// query against English article text, so translate the query into English legal
+// search terms first. Falls back to the original query if translation fails, so a
+// transient error here degrades search quality rather than breaking the chat.
+async function translateQueryToEnglish(query) {
+  try {
+    const response = await requestAnthropic({
+      model: ANTHROPIC_TRANSLATE_MODEL,
+      max_tokens: 100,
+      system:
+        'Extract 3-8 short English legal search keywords/phrases capturing the topic of the user message below, which may be in Arabic or English and may be a Saudi legal question. Reply with ONLY the keywords, space-separated, no punctuation, no explanation.',
+      messages: [{ role: 'user', content: query.slice(0, 1000) }]
+    });
+    const text = (response.content || [])
+      .filter((block) => block.type === 'text')
+      .map((block) => block.text)
+      .join(' ')
+      .trim();
+    return text || query;
+  } catch (error) {
+    return query;
+  }
+}
+
 async function handleChat(req, res) {
   if (!ANTHROPIC_API_KEY) throw httpError(503, 'خدمة المستشار القانوني غير مفعّلة حاليًا.');
   const body = await readBody(req);
@@ -147,9 +173,10 @@ async function handleChat(req, res) {
   if (!messages.length) throw httpError(400, 'أرسل استفسارك القانوني أولًا.');
 
   const lastUserMessage = [...messages].reverse().find((item) => item.role === 'user');
-  const matches = lastUserMessage ? searchLaws(lastUserMessage.content, 5) : [];
+  const searchQuery = lastUserMessage ? await translateQueryToEnglish(lastUserMessage.content) : '';
+  const matches = searchQuery ? searchLaws(searchQuery, 5) : [];
   const lawContext = matches.length
-    ? '\n\nمواد نظامية قد تكون ذات صلة بسؤال المستخدم (استخدمها إن كانت ملائمة مع ذكر رقم المادة والنظام، وتجاهلها إن لم تكن ذات صلة):\n' +
+    ? '\n\nمواد نظامية قد تكون ذات صلة بسؤال المستخدم (النص أدناه هو الترجمة الإنجليزية الرسمية الصادرة عن هيئة الخبراء بمجلس الوزراء — استخدمه إن كان ملائمًا، وترجمه بدقة إلى العربية عند الاستشهاد، مع التنبيه أن النص العربي الأصلي هو النص الحاكم قانونًا؛ وتجاهل المادة إن لم تكن ذات صلة):\n' +
       matches
         .map((match) => `- ${match.lawName} - ${match.label}${match.chapter ? ` (${match.chapter})` : ''}:\n${match.text}`)
         .join('\n\n')

@@ -1,0 +1,401 @@
+{
+  "id": "enforcement-law",
+  "nameAr": "نظام التنفيذ",
+  "language": "en",
+  "governingTextNote": "This is the official Bureau of Experts English translation. Per the source document, the governing (authoritative) text is the Arabic original.",
+  "decree": "Royal Decree No. M/237",
+  "sourceUrl": "https://laws.boe.gov.sa",
+  "ingestedAt": "2026-09-09",
+  "articles": [
+    {
+      "number": 1,
+      "label": "Article 1",
+      "chapter": "Part 1: General Provisions",
+      "text": "In this Law, the following words and phrases shall have the meanings assigned thereto, unless the\ncontext requires otherwise:\nLaw: Enforcement Law.\nRegulations: Implementing Regulations of the Law.\nCouncil: Supreme Judicial Council.\nMinistry: Ministry of Justice.\nMinister: Minister of Justice.\nCourt: Enforcement Court.\nCompetent Department: The administrative unit within the Ministry or the court entrusted with\ncarrying out any of the enforcement proceedings in accordance with this Law and the Regulations.\nCompetent Authority: The public entity in charge of enforcement-related activities.\nAuthority in Charge of Property Oversight or Registration: The public entity in charge of\noverseeing a particular type of property, whether movable or immovable, or registering ownership\nthereof, including the public entity in charge of overseeing financial institutions and the public entity\nin charge of overseeing the Capital Market.\nCompetent Force: The police or the security agency in charge of assisting enforcement by using\nforce.\nDirect Enforcement: Execution of an enforcement document the subject of which is an act or\nomission of an act.\nEnforcement Expenses: Financial obligations arising from enforcement proceedings, subject to\napplicable provisions."
+    },
+    {
+      "number": 2,
+      "label": "Article 2",
+      "chapter": "Part 1: General Provisions",
+      "text": "1. The court shall consist of both first-instance circuits and appellate circuits or of first-instance\ncircuits only.\n2. Appeals of judgments issued by first-instance circuits in a court with no appellate circuits shall be\nconsidered by the appellate circuits of a court designated by the Council."
+    },
+    {
+      "number": 3,
+      "label": "Article 3",
+      "chapter": "Part 1: General Provisions",
+      "text": "All competent authorities, including authorities in charge of property oversight or registration, must\ncomply with court orders and decisions relating to enforcement and its proceedings within a period\nnot exceeding three business days from the date of notification, unless otherwise provided for in this\nLaw."
+    },
+    {
+      "number": 4,
+      "label": "Article 4",
+      "chapter": "Part 2: Jurisdiction",
+      "text": "1. Except for execution of criminal penalties and matters subject to the jurisdiction of the courts of\nthe Board of Grievances, the court shall oversee enforcement and its proceedings, including\ncompulsory enforcement, and shall decide on enforcement disputes and issue judgments, orders,\nand decisions relating to enforcement.\n2. Subject to the provisions of Article 9 of this Law, the court shall verify that the enforcement\ndocument satisfies legal requirements without considering the merits of the claim.\n3. Referral of enforcement petitions shall be in accordance with the rules set forth in the Regulations."
+    },
+    {
+      "number": 5,
+      "label": "Article 5",
+      "chapter": "Part 2: Jurisdiction",
+      "text": "If multiple garnishment orders against the assets of a party subject to enforcement are issued by\nmultiple authorities, the garnishee must notify the authority issuing the later order of the earlier order.\nThe Regulations shall specify the provisions necessary for the implementation of this Article."
+    },
+    {
+      "number": 6,
+      "label": "Article 6",
+      "chapter": "Part 2: Jurisdiction",
+      "text": "1. Notwithstanding the provisions relating to jurisdiction provided for in this Law, the Law of\nEnforcement by the Board of Grievances, and other relevant laws, if attachment of assets of a party\nsubject to enforcement is imposed by two judicial bodies, by a judicial body and an administrative\nbody, or by two judicial bodies and an administrative body, attachment of all such assets shall be\ndeemed made for all enforcement petitions. The judicial body issuing the first attachment order\nshall oversee the attachments arising from such petitions; the sale of assets; the distribution of\nproceeds; and the issuance of judgments, orders, and decisions pertaining thereto, in accordance\nwith the enforcement law applicable to such body.\n2. The Minister shall, in coordination with the Council and the Administrative Judicial Council, issue\nrules specifying the provisions and procedures necessary for the implementation of this Article."
+    },
+    {
+      "number": 7,
+      "label": "Article 7",
+      "chapter": "Part 3: Enforcement Document",
+      "text": "1. Compulsory enforcement may not be executed without an enforcement document, which shall be\nfor a defined and due right. Without prejudice to enforcement documents subject to the Law of\nEnforcement by the Board of Grievances, enforcement documents subject to this Law shall include\nthe following:\na) Final judgments, orders, and decisions, as well as judgments subject to expedited enforcement,\nissued by courts of the Kingdom.\nb) Arbitral awards issued in accordance with relevant statutory provisions.\nc) Settlement agreements and reconciliation documents notarized in accordance with the\nNotarization Law or issued by legally authorized entities.\nd) Bills of exchange and promissory notes recorded in national electronic platforms. The\nRegulations shall provide for the conditions, controls, and procedures for recording bills of\nexchange and promissory notes in such platforms.\ne) Checks.\nf) Contracts and declarations notarized in accordance with the Notarization Law.\ng) Judgments and judicial orders, arbitral awards, settlement agreements, and attested documents\nissued by a foreign state in accordance with Article 9 of this Law.\nh) Contracts and documents that bear the same legal effect of enforcement documents pursuant to\na law or resolution issued by the Council of Ministers.\n2. The Regulations shall specify the procedures necessary for the implementation of this Article."
+    },
+    {
+      "number": 8,
+      "label": "Article 8",
+      "chapter": "Part 3: Enforcement Document",
+      "text": "If the right underlying the enforcement documents provided for in Article 7(1)(c, f, and h) of this Law\nis contingent upon the performance of an obligation the satisfaction of which cannot be verified from\nthe document itself, the holder of the right may file a petition with the court for enforcement,\naccompanied by a report from an expert entity accredited by the Ministry confirming performance of\nsuch obligation. The Regulations shall specify the provisions and procedures necessary for the\nimplementation of this Article."
+    },
+    {
+      "number": 9,
+      "label": "Article 9",
+      "chapter": "Part 3: Enforcement Document",
+      "text": "1. Subject to the Kingdom’s obligations under international treaties and conventions, a court may not\nenforce a foreign judgment or order except on the basis of reciprocity and upon verifying\nsatisfaction of the following conditions:\na) The case in which the foreign judgment or order is rendered is not subject to the exclusive\njurisdiction of a judicial body in the Kingdom.\nb) No pending lawsuit in the Kingdom is filed prior to the filing of a lawsuit with the same subject\nmatter in which a foreign judgment or order is rendered.\nc) The litigants in the case in which a judgment was rendered were summoned, duly represented,\nand afforded the opportunity to defend themselves.\nd) The foreign judgment or order is deemed final according to the regulations governing the\ncompetent judicial body issuing the judgment or order.\ne) The foreign judgment or order does not conflict with a prior judgment or order rendered on the\nsame subject matter by a competent judicial body in the Kingdom.\nf) The judgment or order does not conflict with public policy in the Kingdom.\n2. Arbitral awards issued and settlement agreements concluded in a foreign state shall be enforceable\nin accordance with the Kingdom’s obligations under international treaties and conventions, and\nupon verifying fulfillment of the conditions provided for in paragraph (1) of this Article.\n3. Attested documents issued in a foreign state shall be enforceable upon verifying the fulfillment of\nthe conditions prescribed by the laws of such state, and on the basis of reciprocity between the\nKingdom and such state with respect to the conditions for enforcement of such documents."
+    },
+    {
+      "number": 10,
+      "label": "Article 10",
+      "chapter": "Part 3: Enforcement Document",
+      "text": "If a creditor refuses to receive payment of a due debt established by an enforcement document, the\ndebtor may file a petition with the court to compel the creditor to receive the payment; in such case,\nthe court shall order the creditor to receive such payment, and, if receipt of the payment is not\npossible, the court shall establish the same and take the necessary measures to enable the debtor to\ndischarge his obligation, in accordance with the Regulations. In all cases, costs arising from the\nimplementation of this Article, if any, shall be deemed enforcement expenses."
+    },
+    {
+      "number": 11,
+      "label": "Article 11",
+      "chapter": "Part 3: Enforcement Document",
+      "text": "Without prejudice to relevant statutory provisions, a petition for enforcement filed pursuant to an\nenforcement document may not be accepted upon the lapse of more than 10 years from the due date\nof the right underlying such document."
+    },
+    {
+      "number": 12,
+      "label": "Article 12",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution",
+      "text": "The Regulations shall specify the cases in which the creditor must notify the debtor to satisfy the debt\nsubject of the enforcement document prior to the filing of the enforcement petition."
+    },
+    {
+      "number": 13,
+      "label": "Article 13",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution",
+      "text": "1. The competent department shall register the enforcement petition upon verifying that the\nconditions provided for in this Law and the Regulations are satisfied, in accordance with the\nprocedures and forms specified by the Ministry.\n2. If the competent department decides not to register an enforcement petition for failure to satisfy\nthe conditions referred to in paragraph (1) of this Article, the petitioner must remedy deficiencies\nwithin 10 business days from the date of notification; if the petitioner fails to do so, the petition\nshall be deemed rejected.\n3. If registration of a petition is rejected, the petitioner shall have the right to file a grievance within\n10 business days from the date of rejection, in accordance with Article 46 of this Law."
+    },
+    {
+      "number": 14,
+      "label": "Article 14",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution",
+      "text": "If an enforcement document satisfies legal requirements, the court shall order the party subject to\nenforcement to satisfy the obligation therein, and the writ of execution shall be served to said party\nupon issuance thereof; if service of the writ is not feasible, it shall be published through appropriate\nmeans, and the service shall take effect from the date of such publication. The Regulations shall\nspecify the provisions necessary for the implementation of this Article."
+    },
+    {
+      "number": 15,
+      "label": "Article 15",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets",
+      "text": "1. The party subject to enforcement must disclose his assets from the date of service or publication\nof the writ of execution in accordance with Article 14 of this Law.\n2. If petitioned by the party seeking enforcement and if presumptions exist that the party subject to\nenforcement has concealed or fraudulently transferred assets, the court shall order disclosure from\nthe following:\na) Agents of the party subject to enforcement and persons with whom he has a contractual\nrelationship of employment.\nb) Persons who have financial dealings with the party subject to enforcement, his debtors, and\npersons suspected of aiding him.\nc) Garnishees.\nThis shall be limited to the extent necessary to achieve the purpose of the disclosure. The person\nrequired to disclose must comply within a period not exceeding 10 business days from the date of\nservice by the means specified in the Regulations.\n3. The authority in charge of property oversight or registration shall, pursuant to a court order,\nprovide the court with any information in its possession within a period not exceeding three\nbusiness days from the date of notification."
+    },
+    {
+      "number": 16,
+      "label": "Article 16",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets",
+      "text": "The authority in charge of property oversight or registration or the entities under its supervision\npursuant to relevant statutory provisions shall, as the case may be, undertake any of the following:\n1. establish or designate a department, or more, to be entrusted with processing orders and decisions\nrelating to enforcement;\n2. establish databases for ownership of movable and immovable properties in accordance with the\nRegulations; and\n3. enable linkage and integration with the Ministry’s electronic systems relating to enforcement\npetitions."
+    },
+    {
+      "number": 17,
+      "label": "Article 17",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets",
+      "text": "Subject to the Kingdom’s obligations under international treaties and conventions, exchange of\ndisclosure on assets with other states shall be on the basis of reciprocity, to the extent necessary to\nachieve the purpose of such exchange, and in a manner that does not undermine national security."
+    },
+    {
+      "number": 18,
+      "label": "Article 18",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings",
+      "text": "1. If five business days lapse from the date of service or publication of the writ of execution in\naccordance with Article 14 of this Law, and if the party subject to enforcement fails to fulfill his\nobligation, compulsory enforcement proceedings shall be immediately initiated against the assets\nprovided for in paragraph (2) of this Article, unless the party subject to enforcement provides a\nbank guarantee sufficient to satisfy the obligation; in such case, he shall be granted an additional\nperiod of 10 business days to satisfy the obligation.\n2. Compulsory enforcement against assets shall be carried out as follows:\na) Notifying entities licensed to record credit information of the default in satisfaction of the\nobligation.\nb) Attaching and enforcing against existing assets and any future income, including any amounts\npayable to him by public entities, in accordance with applicable provisions.\n3. In addition to the measures provided for in paragraph (2) of this Article, the court may impose a\nfine of not more than five thousand riyals on the party subject to enforcement for each day of delay\nbeyond the date set for completion of enforcement, provided that such fine does not exceed the\nlimit specified in the Regulations. The court may waive the fine, or part thereof, if the party subject\nto enforcement fulfills his obligations. The fine shall not be collected until completion of\ndistribution of the enforcement proceeds. The total amount of the fine shall devolve to the State\ntreasury.\n4. The Regulations shall specify the mechanisms for implementing the measures provided for in\nparagraphs (2 and 3) of this Article."
+    },
+    {
+      "number": 19,
+      "label": "Article 19",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings",
+      "text": "1. If the period provided for in Article 18(1) of this Law expires, the court shall, upon a petition by\nthe party seeking enforcement, impose a travel ban on the party subject to enforcement for a period\nnot exceeding three years, extendable upon a new petition filed with the court by the party seeking\nenforcement, provided that the total duration of the ban periods does not exceed six years. In all\ncases, the travel ban shall expire upon the termination of the enforcement petition.\n2. A travel ban shall not prejudice the jurisdiction of competent authorities to terminate the residency\npermit of a non-Saudi, order him to leave the country, or deport him, in accordance with applicable\nstatutory provisions.\n3. The court shall lift the travel ban in the following cases:\na) If the health condition of the party subject to enforcement requires, based on a certified medical\nreport, medical treatment outside the Kingdom.\nb) If the total amount of the debt or debts subject to enforcement is small, as specified in the\nRegulations.\nc) If the profession, trade, or job of the party subject to enforcement requires travel outside the\nKingdom.\nd) If the travel ban would cause harm to the party subject to enforcement.\ne) If the party subject to enforcement discloses assets sufficient to satisfy the debt and no\nencumbrance exists that would prevent recovery therefrom.\n4. The Regulations shall specify the controls necessary for the implementation of this Article."
+    },
+    {
+      "number": 20,
+      "label": "Article 20",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing",
+      "text": "1. If the party subject to enforcement fails to comply with the writ of execution after commencement\nof compulsory enforcement proceedings, the court shall, upon a petition by the party seeking\nenforcement, order the tracing of his assets if presumptions exist that the other party has concealed\nor fraudulently transferred assets. The costs of asset tracing shall be deemed enforcement\nexpenses.\n2. To the extent necessary to fulfill the right underlying the enforcement document, the court shall,\nupon a petition by the party seeking enforcement, authorize such party to access any information\nin its possession relating to the assets of the party subject to enforcement. The court may also order\nthe authority in charge of property oversight or registration to grant access to information in its\npossession to persons entrusted with any of the enforcement proceedings. The Regulations shall\nspecify the controls necessary for implementation of this paragraph."
+    },
+    {
+      "number": 21,
+      "label": "Article 21",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing",
+      "text": "1. Upon a petition by the party seeking enforcement and if presumptions exist that the other party\nhas concealed or fraudulently transferred assets, the court may interrogate or order the competent\ndepartment or private entity licensed to trace assets to interrogate the party subject to enforcement\nor any person suspected, based on presumptions, of unlawfully receiving assets from his relatives,\nagents, debtors, persons with whom he has a contractual relationship of employment or financial\ndealings, or persons suspected of aiding him.\n2. The person ordered to appear for interrogation pursuant to paragraph (1) of this Article must\ncomply with such order within a period not exceeding three business days from the date the notice\nis duly served, as specified in the Regulations. The court may, when necessary, order that such\nperson be compelled to appear before the court for interrogation.\n3. The court may order the competent authority, or the authority in charge of property oversight or\nregistration, to trace the assets of the party subject to enforcement and any person suspected of\nreceiving unlawfully transferred assets, and to provide the court with a report thereon."
+    },
+    {
+      "number": 22,
+      "label": "Article 22",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing",
+      "text": "The Regulations shall specify the controls and procedures governing the tracing of assets, as provided\nfor in this Chapter."
+    },
+    {
+      "number": 23,
+      "label": "Article 23",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution",
+      "text": "1. All assets of the party subject to enforcement shall be held as security for his debts as of the date\nof notification to satisfy the debt in accordance with Article 12 of this Law or as of the date of\nservice or publication of the writ of execution in accordance with Article 14 of this Law.\n2. Attachment and enforcement against provisionally attached assets shall be effected by the\ncompetent authority, and the garnishee shall notify the authority imposing the provisional\nattachment once attachment in aid of execution is effected. The Regulations shall specify the\nprocedures necessary for the implementation of this paragraph."
+    },
+    {
+      "number": 24,
+      "label": "Article 24",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution",
+      "text": "1. The party seeking enforcement may file a lawsuit to nullify any disposition the party subject to\nenforcement made to his assets if it is established that such disposition occurred after the date of\nnotification to satisfy the debt in accordance with Article 12 of this Law or after the date of service\nor publication of the writ of execution in accordance with Article 14 of this Law and prior to the\nissuance of the writ of attachment. The court shall issue a judgment against the transferee to nullify\nthe disposition wholly or partly up to the amount of the obligation stated in the enforcement\ndocument if such disposition is in the form of:\na) gifts or donations;\nb) prepayment of debt;\nc) contracts and financial obligations not customary for a person in his position, as determined by\nthe court.\n2. Any disposition of the assets subject of enforcement made by the party subject to enforcement\nshall be nullified if such disposition is made after the issuance of the writ of attachment."
+    },
+    {
+      "number": 25,
+      "label": "Article 25",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution",
+      "text": "1. Attachment of assets of a party subject to enforcement may not exceed the amount of the debt\nclaimed, unless the attached asset is indivisible.\n2. The court shall determine the assets the enforcement against which would achieve prompt\nfulfillment, whether before or after the issuance of the writ of attachment. The Regulations shall\nspecify the relevant controls.\n3. The party subject to enforcement may designate specific assets for enforcement if he proves that\nhe owns assets in excess of the amount of the debt. The court shall adopt such designation unless\nit prejudices enforcement."
+    },
+    {
+      "number": 26,
+      "label": "Article 26",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution",
+      "text": "The following may not be subject to attachment and enforcement:\n1. Public funds.\n2. The residence occupied by the party subject to enforcement or his dependents or the means of\ntransportation used by him or his dependents only to the extent required by their needs, the items\nnecessary to practice his profession or trade, and his personal effects. Assets provided for in this\nparagraph may be subject to attachment and enforcement if pledged to the creditor or if they\nconstitute the very property claimed by the party seeking enforcement.\n3. Wages and salaries, except as follows:\na) One-half of the total wage or salary for payment of alimony and child support.\nb) One-third of the total wage or salary for payment of other debts.\nIn cases where debts compete for limited assets, one-half of the total wage or salary shall be allocated\nto alimony and child support, and one-third of the remaining half shall be allocated to other debts\nand, if there are multiple creditors, such amount shall be distributed among them.\n4. Civil and military pensions, except as follows:\na) One-half of the total pension for payment of alimony and child support.\nb) One-quarter of the total pension for payment of other debts.\nIn cases where debts compete for limited assets, one-half of the total pension shall be allocated to\nalimony and child support, and one-quarter of the remaining half shall be allocated to other debts and,\nif there are multiple creditors, such amount shall be distributed among them.\n5. Government subsidies to the party subject to enforcement.\n6. Any assets exempted pursuant to a resolution by the Council of Ministers.\nThe Regulations shall specify the provisions and procedures necessary for the implementation of\nparagraphs (1, 2, 3, 4, and 5) of this Article."
+    },
+    {
+      "number": 27,
+      "label": "Article 27",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution",
+      "text": "1. The authority in charge of property oversight or registration must promptly enforce the attachment\nordered by the court.\n2. If enforcement requires the use of force, the court may order the competent force to execute the\nenforcement.\n3. The Regulations shall specify the procedures for the attachment, deposit, management, and\nreceivership of assets, including procedures for attachment of assets due to the debtor in the future."
+    },
+    {
+      "number": 28,
+      "label": "Article 28",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution",
+      "text": "If the court has evidence or presumptions that the party subject to enforcement or another person has\nengaged in criminal conduct by concealing, fraudulently transferring, or dissipating the assets subject\nof enforcement, or by providing to the court misleading or incorrect information, the court shall refer\nthe matter to the competent authority in charge of investigation to take necessary legal action in\naccordance with applicable statutory provisions; this shall not prejudice enforcement proceedings."
+    },
+    {
+      "number": 29,
+      "label": "Article 29",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets",
+      "text": "The court may allow a party subject to enforcement to sell his assets to the extent that serves the\npurposes of enforcement. The Regulations shall specify the relevant provisions."
+    },
+    {
+      "number": 30,
+      "label": "Article 30",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets",
+      "text": "1. Except in the case provided for in Article 29 of this Law and as specified in the Regulations,\nattached assets shall be sold by public auction.\n2. The sale contract shall be deemed concluded with full legal effect upon issuance of the decision\nawarding the auction to the winning bidder.\n3. No claims may be raised against the winning bidder regarding sold items for which an award\ndecision has been issued.\n4. Securities subject to the Capital Market Law shall be sold in accordance with controls agreed upon\nwith the authority in charge of overseeing the Capital Market in a manner that ensures fair pricing\nand compliance with enforcement safeguards.\n5. The Regulations shall specify the provisions necessary for the implementation of paragraphs (1,\n2, and 3) of this Article."
+    },
+    {
+      "number": 31,
+      "label": "Article 31",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets",
+      "text": "1. Sale proceeds shall not be delivered to the party seeking enforcement or his representative except\nupon completion of ownership transfer procedures by the competent authority.\n2. An occupant of a real property shall vacate such property if requested by the person to whom\nownership of the property is transferred in accordance with this Chapter, unless he occupies it\npursuant to an enforcement document conferring a right to utilize the property. In the event the\noccupant refuses to vacate the property, the court shall take the measures set forth in Article 36 of\nthis Law if petitioned by the new owner."
+    },
+    {
+      "number": 32,
+      "label": "Article 32",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses",
+      "text": "1. Without prejudice to paragraph (2) of this Article, the party subject to enforcement shall bear the\nenforcement expenses, unless such expenses are attributed to another person; in such case, the\nexpenses shall be borne by such person pursuant to a court decision, which shall be appealable in\naccordance with applicable procedures.\n2. The party seeking enforcement shall bear the enforcement expenses if he terminates the\nenforcement petition pursuant to Article 43(1)(e and f) of this Law, unless he agrees otherwise\nwith the party subject to enforcement.\n3. Without prejudice to paragraph (1) of this Article, the enforcement expenses shall be paid by the\nparty subject to enforcement. If he refuses, the party seeking enforcement or any other party with\ninterest from among the enforcement parties may make such payment. Failure to pay such\nexpenses shall result in a stay of the enforcement proceedings provided for in this Law."
+    },
+    {
+      "number": 33,
+      "label": "Article 33",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds",
+      "text": "1. The Ministry shall open bank accounts and maintain safe-deposit boxes for enforcement purposes.\nThe deposit and disbursement of enforcement proceeds, as well as the management of bank\naccounts and safe-deposit boxes, shall be in accordance with the controls and procedures specified\nin the Regulations.\n2. The Regulations shall, in coordination with the Saudi Central Bank, specify the provisions and\nprocedures for the participation of banks and similar institutions in enforcement proceedings."
+    },
+    {
+      "number": 34,
+      "label": "Article 34",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds",
+      "text": "If enforcement proceeds are sufficient to satisfy the amounts owed to the attaching parties and persons\ndeemed parties in enforcement proceedings pursuant to the provisions of this Law, the court shall\norder the distribution of such proceeds among such parties in accordance with the Regulations."
+    },
+    {
+      "number": 35,
+      "label": "Article 35",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds",
+      "text": "If enforcement proceeds are not sufficient to satisfy the amounts owed to the attaching parties and to\npersons deemed parties in enforcement proceedings pursuant to the provisions of this Law, the court\nshall proceed as follows:\n1. If the attaching parties and persons deemed parties in the proceedings reach an amicable settlement\nfor the distribution of the proceeds, the court shall enter such settlement into the minutes and order\nthe distribution be made accordingly.\n2. If the attaching parties and persons deemed parties in the proceedings fail to reach an amicable\nsettlement for the distribution of the proceeds, the court shall order such distribution be carried\nout, provided that priority is given to privileged debts over all other debts in accordance with\napplicable statutory provisions and the controls specified in the Regulations. The proceeds\ndistribution order shall be appealable in accordance with applicable procedures."
+    },
+    {
+      "number": 36,
+      "label": "Article 36",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement",
+      "text": "If enforcement involves an act or omission of an act and the party subject to enforcement fails to\ncomply within five business days from the date of service or publication of the writ of execution in\naccordance with Article 14 of this Law, the following compulsory enforcement measures shall be\ncarried out:\n1. The court shall promptly order the competent force to carry out all necessary enforcement\nproceedings, except for actions that must be performed by the party subject to enforcement.\n2. The court shall, when necessary, promptly request the competent authority to effect fulfillment of\nthe right underlying the enforcement document.\n3. If enforcement cannot be carried out by the competent force or the competent authority, or if the\nparty subject to enforcement fails to perform any of the actions required for enforcement, the\nfollowing compulsory enforcement measures shall be carried out:\na) The court shall, upon a petition by the party seeking enforcement, order that a travel ban be\nplaced on the party subject to enforcement in accordance with Article 19 of this Law.\nb) The court shall impose against the party subject to enforcement a fine not exceeding ten\nthousand riyals for each day of delay beyond the date set for completion of enforcement,\nprovided that such fine does not exceed the limit prescribed in the Regulations. The court may\nwaive the fine or part thereof if said party fulfills his obligation. The total amount of the fine\nshall devolve to the State treasury.\nThe Regulations shall specify the controls and procedures necessary for the implementation of this\nArticle, including the controls and procedures for eviction and for disposal of movables in the\nproperty, if not collected by their owner."
+    },
+    {
+      "number": 37,
+      "label": "Article 37",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement",
+      "text": "1. If 30 business days lapse from the date of carrying out any of the compulsory enforcement\nmeasures provided for in Article 36 of this Law and the party subject to enforcement fails to fulfill\nhis obligation, the court shall, upon a petition by the party seeking enforcement, order his\nimprisonment for a term not exceeding 180 days to compel compliance therewith, renewable for\nan additional term upon a petition by the party seeking enforcement.\n2. A party subject to enforcement may not be imprisoned pursuant to paragraph (1) of this Article if\nhe is under 18 years of age, if it is established by a certified medical report that he suffers from an\nillness that renders him unfit for imprisonment, if such party is a pregnant woman or a mother\nwhose child is under two years of age, or if such party is an ascendant or descendant of the party\nseeking enforcement.\n3. Persons imprisoned pursuant to paragraph (1) of this Article shall be housed separately from\ninmates convicted in criminal cases.\n4. Completion of the imprisonment sentence in accordance with paragraph (1) of this Article shall\nnot discharge the obligation underlying an enforcement document."
+    },
+    {
+      "number": 38,
+      "label": "Article 38",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement > Chapter 10: Enforcement in Family Matters",
+      "text": "1. Enforcement documents in family matters shall be executed in the manner prescribed by this Law\nand the Regulations.\n2. The Regulations shall specify enforcement proceedings in family matters involving periodic\npayments."
+    },
+    {
+      "number": 39,
+      "label": "Article 39",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement > Chapter 10: Enforcement in Family Matters",
+      "text": "1. An enforcement document relating to custody and visitation shall be carried out by compulsion, if\nwarranted, even if this requires resorting to the competent force and forcibly entering homes.\nEnforcement of such document shall be repeated if necessary.\n2. Direct enforcement provisions shall apply to non-complying parties in family matters in\naccordance with the controls specified in the Regulations; such controls shall take into account the\nnature of family matters and the circumstances of enforcement."
+    },
+    {
+      "number": 40,
+      "label": "Article 40",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement > Chapter 10: Enforcement in Family Matters",
+      "text": "The court shall, in executing an enforcement document regarding visitation of a person subject of\ncustody, take into consideration the interest of such person and the circumstances of enforcement.\nThe Regulations shall specify the provisions necessary for the implementation of this Article."
+    },
+    {
+      "number": 41,
+      "label": "Article 41",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement > Chapter 10: Enforcement in Family Matters > Chapter 11: Enforcement against Private Legal Personality",
+      "text": "1. Direct enforcement provisions shall, in enforcement against private legal personality, apply to any\nof its personnel who obstructs enforcement, in accordance with the controls and procedures\nspecified in the Regulations.\n2. The Regulations shall, subject to paragraph (1) of this Article, specify the provisions and\nproceedings for enforcement against the private legal personality in accordance with the provisions\nof this Law and other relevant laws, and in a manner consistent with the nature of enforcement\nagainst such personality."
+    },
+    {
+      "number": 42,
+      "label": "Article 42",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement > Chapter 10: Enforcement in Family Matters > Chapter 11: Enforcement against Private Legal Personality > Chapter 12: Termination of Enforcement Petition",
+      "text": "The party seeking enforcement must, within the period prescribed in the Regulations, terminate his\npetition upon satisfaction of the right underlying the enforcement document."
+    },
+    {
+      "number": 43,
+      "label": "Article 43",
+      "chapter": "Part 4: Enforcement Proceedings > Chapter 1: Registration of Enforcement Petitions and Issuance of Writs of Execution > Chapter 2: Disclosure of Assets > Chapter 3: Compulsory Enforcement Proceedings > Chapter 4: Asset Tracing > Chapter 5: Attachment in Aid of Execution > Chapter 6: Sale of Attached Assets > Chapter 7: Enforcement Expenses > Chapter 8: Deposit and Distribution of Enforcement Proceeds > Chapter 9: Direct Enforcement > Chapter 10: Enforcement in Family Matters > Chapter 11: Enforcement against Private Legal Personality > Chapter 12: Termination of Enforcement Petition",
+      "text": "1. An enforcement petition shall terminate in any of the following cases:\na) If the right underlying the enforcement document is satisfied.\nb) If the court establishes that the party subject to enforcement has no assets. In such case, a\ndecision shall be issued to terminate the petition, and such decision shall be appealable in\naccordance with applicable procedures.\nc) If all enforcement proceedings provided for in this Law and the Regulations have been\nexhausted, and the period prescribed for the enforcement petition has lapsed after the last\nproceeding.\nd) If enforcement is not feasible. In such case, a decision by the court shall be issued to terminate\nthe petition, and such decision shall be appealable in accordance with applicable procedures.\ne) If the party seeking enforcement terminates his petition following an agreement with the party\nsubject to enforcement, or for any other reason.\nf) If the party seeking enforcement discharges the party subject to enforcement from the\nobligation underlying the enforcement document.\n2. Termination of an enforcement petition under the cases provided for in paragraph (1)(b, c, d, and\ne) of this Article shall not prejudice the creditor’s right to refile such petition in accordance with\nthe provisions of this Law if grounds for refiling exist.\n3. The Regulations shall specify the controls and procedures necessary for the implementation of this\nArticle."
+    },
+    {
+      "number": 44,
+      "label": "Article 44",
+      "chapter": "Part 5: Enforcement Disputes and Appeals against Enforcement Proceedings",
+      "text": "All court orders and decisions shall be final except as otherwise provided for in this Law."
+    },
+    {
+      "number": 45,
+      "label": "Article 45",
+      "chapter": "Part 5: Enforcement Disputes and Appeals against Enforcement Proceedings",
+      "text": "1. Without prejudice to Article 4(2) of this Law, any person with interest, whether a party to the\nenforcement or otherwise, may file a claim contesting the validity of an enforcement document,\nthe conditions for its enforcement, or the jurisdiction of the court.\n2. The court shall decide an enforcement dispute in accordance with the provisions governing\nsummary cases and the procedures specified in the Regulations.\n3. The Council shall determine enforcement disputes in which rendered judgments are not\nappealable.\n4. Judgments rendered by appellate circuits regarding the judgments of enforcement disputes may\nnot be appealable by way of cassation.\n5. Notwithstanding paragraph (4) of this Article, the Council may determine enforcement disputes\nin which rendered judgments may be appealable by way of cassation."
+    },
+    {
+      "number": 46,
+      "label": "Article 46",
+      "chapter": "Part 5: Enforcement Disputes and Appeals against Enforcement Proceedings",
+      "text": "1. Any person with interest may file a grievance against orders or decisions issued by the court, the\ncompetent department, or a private sector entity regarding the enforcement proceedings specified\nin the Regulations.\n2. A grievance shall be decided by the chief judge of the court or the party the Council designates\nwithin 10 business days from the day following the date on which access to a decision or order is\nmade available, in accordance with the Regulations. The chief judge or the party designated by\nthe Council, as the case may be, may stay enforcement of such order or decision if warranted,\npending issuance of a decision on the grievance; such stay shall entail staying all related\nproceedings and time limits.\n3. In all cases, the decision on the grievance provided for in this Article shall be final."
+    },
+    {
+      "number": 47,
+      "label": "Article 47",
+      "chapter": "Part 5: Enforcement Disputes and Appeals against Enforcement Proceedings",
+      "text": "1. The existence of an enforcement dispute, a dispute relating to the merits of the claim underlying\nthe enforcement document, or a grievance against any enforcement proceeding shall not preclude\ncontinuation of enforcement proceedings in accordance with the provisions of this Law and the\nRegulations, unless the person considering such disputes or grievance decides otherwise.\n2. A stay of enforcement proceedings shall entail staying all relating proceedings and time limits."
+    },
+    {
+      "number": 48,
+      "label": "Article 48",
+      "chapter": "Part 6: Penalties",
+      "text": "1. Save for Article 57(1) of this Law, the competent court shall consider claims arising from the\napplication of the provisions of this Part and shall impose the penalties prescribed therein.\n2. The competent authority in charge of investigation and prosecution shall undertake investigation\nand prosecution before the competent court with respect to the offenses provided for in this Part."
+    },
+    {
+      "number": 49,
+      "label": "Article 49",
+      "chapter": "Part 6: Penalties",
+      "text": "1. Without prejudice to relevant statutory provisions, detection and recording of offenses provided\nfor in this Part shall be carried out by officers from the Ministry or from any other public entity.\nSaid officers shall be appointed pursuant to a decision by the Minister and shall have the capacity\nof preliminary investigation officers. The Regulations shall specify their powers, as well as the\nprocedures and controls necessary for performing their duties and exercising their powers.\n2. Paragraph (1) of this Article shall not prejudice the power of the court to refer acts constituting\noffenses under this Part directly to the competent authority in charge of investigation and\nprosecution for completion of the necessary actions in accordance with relevant statutory\nprovisions."
+    },
+    {
+      "number": 50,
+      "label": "Article 50",
+      "chapter": "Part 6: Penalties",
+      "text": "1. Imprisonment for a term not exceeding three years and a fine not exceeding one million riyals, or\neither penalty, shall be imposed on any person who commits any of the following offenses:\na) Concealment or transfer of assets with the intent of preventing satisfaction of the right\nunderlying the enforcement document as provided for in the provisions of this Law.\nb) Deliberate obstruction of enforcement by refusing to comply with the writ of execution,\nrefusing to disclose assets, filing a lawsuit to impede enforcement, disposing of assets subject\nof enforcement after issuance of the writ of attachment, or failing to respond to the\ninterrogation, subject to the provisions of this Law.\nc) Resistance of enforcement by threatening or assaulting, personally or through another person,\nan official or an authorized person during execution of enforcement or by reason thereof,\ncommitting any such acts against the party seeking enforcement by reason of enforcement, or\ncommitting any other unlawful act with the intent of resisting enforcement.\nd) Deliberate submission of misleading or incorrect information to the court or during enforcement\nproceedings.\n2. An accomplice in the commission of any of the offenses provided for in this Article shall be subject\nto the penalty prescribed in paragraph (1) of this Article. A person shall be deemed an accomplice\nif he knowingly agrees to, incites, or aids and abets in the commission of an offense and if the\noffense is committed as a result of such agreement, incitement, or aiding and abetting."
+    },
+    {
+      "number": 51,
+      "label": "Article 51",
+      "chapter": "Part 6: Penalties",
+      "text": "A public servant and any person of similar status who prevents or obstructs enforcement shall be\nsubject to imprisonment for a term not exceeding five years. Such act shall be deemed an offense\nimpinging upon integrity."
+    },
+    {
+      "number": 52,
+      "label": "Article 52",
+      "chapter": "Part 6: Penalties",
+      "text": "1. Any debtor proven to have dissipated his assets, if such assets are substantial, shall be subject to\nimprisonment for a term not exceeding 15 years, even if such debtor is established to be insolvent.\nSuch act shall constitute a major offense warranting detention.\n2. The Public Prosecutor shall, upon coordination with the Ministry of Justice and the Ministry of\nFinance, establish controls and standards for determining when assets are deemed substantial as\nprovided for in paragraph (1) of this Article, as per the types of debts and assets of debtors."
+    },
+    {
+      "number": 53,
+      "label": "Article 53",
+      "chapter": "Part 6: Penalties",
+      "text": "Imprisonment for a term not exceeding three years and a fine not exceeding one hundred thousand\nriyals, or either penalty, shall be imposed on:\n1. the party seeking enforcement who petitions for a specific enforcement proceeding with the intent\nof harming the party subject to enforcement, or who, with the intent of harming the party subject\nto enforcement, delays termination of an enforcement petition after the right underlying the\nenforcement document is satisfied;\n2. a person authorized under the provisions of this Law to access information relating to the assets\nof the party subject to enforcement who discloses such information without legal grounds; the\nsame penalty shall apply to any person who, without a judicial order, accesses such information;\n3. any licensed enforcement service provider, or any of the subordinates thereof, breaching duties by\nmisappropriating assets or evading delivery or receipt of assets; and\n4. the appraiser, sale agent, their subordinates, or any participant in auction sales, who deliberately\ninfluences or manipulates prices."
+    },
+    {
+      "number": 54,
+      "label": "Article 54",
+      "chapter": "Part 6: Penalties",
+      "text": "A parent or any other person who refuses, resists, or obstructs enforcement of a writ of execution\nrelating to custody, guardianship, or visitation shall be subject to imprisonment for a term not\nexceeding 90 days and a fine not exceeding thirty thousand riyals, or to either penalty."
+    },
+    {
+      "number": 55,
+      "label": "Article 55",
+      "chapter": "Part 6: Penalties",
+      "text": "If an act constituting an offense under this Part constitutes an offense under another law, the harsher\npenalty shall be imposed."
+    },
+    {
+      "number": 56,
+      "label": "Article 56",
+      "chapter": "Part 6: Penalties",
+      "text": "In case of repeating any of the offenses provided for in this Part, the prescribed penalty may be\ndoubled even if it entails exceeding the maximum limit, provided that it does not exceed double the\nmaximum limit. A person shall be deemed a repeat offender if he commits the same offense for which\na final judgment was rendered within three years from the date of such judgment."
+    },
+    {
+      "number": 57,
+      "label": "Article 57",
+      "chapter": "Part 6: Penalties",
+      "text": "1. Without prejudice to any harsher penalty stipulated in any other law and absent a specific provision\nin this Law, an enforcement service provider who violates any provisions of this Law, the\nRegulations, or the Regulations for the Activities of Enforcement Service Providers shall be\nsubject to one or more of the following penalties:\na) A warning.\nb) A fine not exceeding three hundred thousand riyals.\nc) Suspension of the license for a period not exceeding one year.\nd) Revocation of the license.\n2. The Minister shall form a committee, or more, comprising at least three members, one of whom is\nthe chairman and among them is a legal advisor, to consider the violations referred to in paragraph\n(1) of this Article and impose the penalties prescribed therein, according to the type, gravity, and\nimpact of the violation. Committee decisions must be approved by the Minister or his designee.\nThe Minister shall issue a decision determining the committee’s work rules and procedures and\nthe remuneration of its members.\n3. A person against whom a decision is issued by the committee referred to in paragraph (2) of this\nArticle may file a grievance with the administrative court in accordance with the provisions of the\nLaw of Procedure before the Board of Grievances."
+    },
+    {
+      "number": 58,
+      "label": "Article 58",
+      "chapter": "Part 6: Penalties",
+      "text": "1. The competent court or the committee referred to in Article 57(2) of this Law may, as the case\nmay be, include in its penalty decision or judgment a provision requiring publication of a summary\nthereof at the expense of the convicted person or the violator, in a newspaper, or more, issued in\nhis area of residence or, if none exists, in the nearest area, or through any other appropriate means,\naccording to the type, gravity, and impact of the offense or violation. Such publication shall be\nmade after the judgment becomes final, the decision becomes unappealable due to the lapse of the\nstatutory period for filing grievances, or upon the issuance of a final ruling to dismiss the\ngrievance.\n2. The competent court or the committee referred to in Article 57(2) of this Law may, as the case\nmay be, include in its judgment or penalty decision a provision requiring the violator to attend\ncertain correctional programs at his own expense."
+    },
+    {
+      "number": 59,
+      "label": "Article 59",
+      "chapter": "Part 7: Final Provisions",
+      "text": "Absent a specific provision in this Law, the Law of Civil Procedure shall apply to the procedures and\ndisputes provided for in this Law, in a manner not inconsistent therewith."
+    },
+    {
+      "number": 60,
+      "label": "Article 60",
+      "chapter": "Part 7: Final Provisions",
+      "text": "1. Except for the issuance of orders of imprisonment against the party subject to enforcement\ncompelling direct enforcement; orders banning travel outside the Kingdom; adjudication of\ndisputes and grievances; and the issuance of judgments, the enforcement proceedings provided for\nin this Law and the Regulations may, pursuant to the Minister's decision, be assigned to the\ncompetent department, the competent authority after coordination therewith, or the private sector.\n2. A private sector entity to which an enforcement proceeding is assigned pursuant to paragraph (1)\nof this Article must meet the following conditions:\na) The entity must be licensed in the Kingdom to engage in the activity subject of the assignment.\nb) The entity must have the technical expertise and financial capacity necessary to carry out the\nassignment, as determined by the Ministry.\nc) The entity must not have a conflict of interest, whether actual or potential.\nd) The entity must maintain confidentiality of any information to which it becomes privy by reason\nof the assignment; such obligation shall survive the expiration of the assignment.\n3. The Regulations shall specify the provisions and procedures necessary for the implementation of\nparagraph (1) of this Article."
+    },
+    {
+      "number": 61,
+      "label": "Article 61",
+      "chapter": "Part 7: Final Provisions",
+      "text": "1. The Ministry shall license and supervise enforcement service providers, including court-appointed\nsale agents and receivers as well as service providers for asset tracing, asset recovery, and\nenforcement of visitations in family matters, and other persons specified in the Regulations.\n2. The Minister shall issue regulations governing the activities of enforcement service providers,\nincluding their functions, licensing requirements and financial guarantees, qualifications and\nduties, as well as the rules and procedures for detecting and recording violations committed\nthereby, and the policies for determining their service fees."
+    },
+    {
+      "number": 62,
+      "label": "Article 62",
+      "chapter": "Part 7: Final Provisions",
+      "text": "Approved electronic means shall be used for taking decisions or carrying out any of the enforcement\nproceedings provided for in this Law and the Regulations. If the purpose of the decision or proceeding\ncan be achieved through approved modern technology methods, such methods shall be used. If,\nhowever, enforcement through approved electronic means or approved modern technology methods\nproves infeasible, ordinary means shall be used."
+    },
+    {
+      "number": 63,
+      "label": "Article 63",
+      "chapter": "Part 7: Final Provisions",
+      "text": "The Ministry shall issue the procedural guidelines, decisions, and forms necessary for the\nimplementation of this Law and the Regulations."
+    },
+    {
+      "number": 64,
+      "label": "Article 64",
+      "chapter": "Part 7: Final Provisions",
+      "text": "The Minister shall issue the Regulations within 180 days from the date of publication of this Law in\nthe Official Gazette. The Regulations shall enter into force from the date this Law enters into force."
+    },
+    {
+      "number": 65,
+      "label": "Article 65",
+      "chapter": "Part 7: Final Provisions",
+      "text": "1. This Law shall supersede the Enforcement Law promulgated by Royal Decree No. M/53, dated\n13/8/1433H, and its amendments, and shall repeal any provision conflicting therewith.\n2. This Law shall enter into force 180 days from the date of its publication in the Official Gazette."
+    }
+  ]
+}
